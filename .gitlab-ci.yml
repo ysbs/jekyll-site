@@ -1,28 +1,49 @@
 variables:
   JEKYLL_ENV: production
 
+stages:
+  - build
+  - test
+  - deploy
+
 before_script:
   - bundle install --path=vendor
   - npm install
   - ./node_modules/bower/bin/bower install
   - ./node_modules/gulp/bin/gulp.js
 
-test:
-  stage: test
+build:
+  stage: build
   script:
-  - bundle exec jekyll build -d test
+  - bundle exec jekyll build -d built
   artifacts:
     paths:
-    - test
-  except:
-  - master
+    - built
 
-pages:
+test:
+  stage: build
+  script:
+  - echo "Link checker"
+  artifacts:
+    paths:
+    - built
+
+deploy_prod:
   stage: deploy
   script:
-  - bundle exec jekyll build -d public
+  - echo "Deploy Production"
   artifacts:
     paths:
-    - public
+    - built
   only:
-  - master
+  - master 
+
+deploy_staging:
+  stage: deploy
+  script:
+  - echo "Deploy Staging"
+  artifacts:
+    paths:
+    - built
+  only:
+  - staging
