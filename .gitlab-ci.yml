@@ -33,8 +33,7 @@ test:
 deploy_prod:
   stage: deploy
   script:
-  - echo "Deploy Production"
-  - ls
+  - rsync -av --delete ./built /mnt/nfs/site-content/jekyll
   only:
   - master 
 
