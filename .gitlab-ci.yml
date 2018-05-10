@@ -16,25 +16,18 @@ build:
   stage: build
   script:
   - bundle exec jekyll build -d built
-  artifacts:
-    paths:
-    - built
 
 test:
   stage: test
   script:
   - echo "Link checker"
-  artifacts:
-    paths:
-    - built
+  - ls
 
 deploy_prod:
   stage: deploy
   script:
   - echo "Deploy Production"
-  artifacts:
-    paths:
-    - built
+  - ls
   only:
   - master 
 
@@ -42,8 +35,5 @@ deploy_staging:
   stage: deploy
   script:
   - echo "Deploy Staging"
-  artifacts:
-    paths:
-    - built
   only:
   - staging
