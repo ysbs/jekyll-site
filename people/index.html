@@ -80,18 +80,18 @@ img: brand/logo.svg
                             {% endcomment %}
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                    <a href="#rp" class="c-simple-accordion-title">Předsednictvo strany</a>
+                                    <a href="#rp" class="c-simple-accordion-title">Executive</a>
                                     <div id="rp" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'rp'" | sort:"ordrp" %}
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'nec'" | sort:"ordnec" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#snemovna" class="c-simple-accordion-title">Poslanci a poslankyně</a>
+                                    <a href="#snemovna" class="c-simple-accordion-title">Governors</a>
                                     <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'gov'" | sort:"ordgov" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
                                 </li>

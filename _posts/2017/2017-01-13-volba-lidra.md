@@ -20,7 +20,7 @@ Pirátský volební program nyní sestavují odborníci z řad Pirátů. Program
 
 ### Profily kandidátů
 
-* [Ivan Bartoš](https://www.pirati.cz/lide/Ivan_Bartos), předseda strany, ivan.bartos@pirati.cz, 603 415 378
+* [Ivan Bartoš](https://www.pirati.cz/people/Ivan_Bartos), předseda strany, ivan.bartos@pirati.cz, 603 415 378
 * [Mikuláš Peksa](https://www.pirati.cz/lide/mikulas_peksa), vedoucí zahraničního odboru, mikulas.peksa@pirati.cz, 605 101 249
 
 ### Volební systém

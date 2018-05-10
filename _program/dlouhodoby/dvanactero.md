@@ -12,8 +12,8 @@ topic: meta
 2. **Jasný záměr: Stát nesmí technologie zneužívat, ale využívat**
     Pirátský program pro informační společnost řeší problémy, které staré struktury zvládnout neumějí nebo nechtějí. Vlády států musí přestat nové technologie zneužívat ke sledování lidí a údržbě starých monopolů, a začít je využívat ke svobodnému přístupu k informacím, lepšímu vzdělávání a účinnější ochraně soukromí.
 3. **Lidé mají právo rozhodovat se na základě informací**
-    Zveřejněné informace jsou na rozdíl od věcí volně šiřitelné a jejich hodnota spočívá právě v tom, že je lze sdílet. Proto odmítáme umělé monopoly na informace, které stát lidem pod tlakem korporací vnucuje. Otevřený přístup k informacím umožňuje lepší rozhodování lidí. Pomocí přímé demokracie mohou svá rozhodnutí i prosadit.
-4. **Informační otevřenost snižuje náklady, zvyšuje efektivitu a usnadňuje lidem život**
+    Zveřejněné informace jsou na rozdíl od věcí volně šiřitelné a jejich hodnota spočívá právě v tom, že je lze sdílet. Proto odmítáme umělé monopoly na informace, které stát peoplem pod tlakem korporací vnucuje. Otevřený přístup k informacím umožňuje lepší rozhodování lidí. Pomocí přímé demokracie mohou svá rozhodnutí i prosadit.
+4. **Informační otevřenost snižuje náklady, zvyšuje efektivitu a usnadňuje peoplem život**
     Vědecké články, kulturní díla, zákony, státní normy a jiná díla placená z veřejných prostředků chceme zpřístupnit všem na Internetu. Politické strany a jiné spolky placené z veřejných prostředků musí mít transparentní účet a účetnictví na Internetu.
 5. **Otevíráme vládu a zveřejňujeme informace**
     Piráti otevírají vládu veřejnosti a zveřejňují všechny informace, na které má veřejnost právo. Piráti skoncují s tajným vyjednáváním veřejných záležitostí. Informace mají úřady zveřejňovat přehledně a uceleně na Internetu, aniž by se jich občan dožadoval.

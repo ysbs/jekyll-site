@@ -26,6 +26,6 @@ Závěrem se sluší říct, že Sobotkova vláda bohužel řadu věcí neuděla
 
 ### Kontakt:
 
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas-ferjencik/) – vedoucí mediálního odboru
+* [Mikuláš Ferjenčík](https://www.pirati.cz/people/mikulas-ferjencik/) – vedoucí mediálního odboru
 * email: mikulas.ferjencik@pirati.cz
 * telefon: 737 943 770

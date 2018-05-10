@@ -103,7 +103,7 @@ Přesto by měla být Česká republika připravena na zvýšení počtu migrant
 
 * Solidarita vyžaduje důvěru. Prostředky vynakládané na integraci cizinců musí být spravovány transparentně. Daňoví poplatníci z jiných členských států musí mít možnost na internetu zjistit, kam peníze z jejich daní putují. Přitom nechceme narušovat soukromí uprchlíků zveřejňováním osobních údajů, pouze zprůhlednit fungování veřejných institucí.
 
-Zastupitelé Pirátů v zastupitelstvu hl. m. Prahy, Brna a dalších měst jsou připraveni v zastupitelstvech podpořit konkrétní pomoc uprchlíkům, aby se integrovali (např. byty, sociální pomoc, integrační programy apod.). Jsme přesvědčeni, že s těmito změnami lze uprchlickou vlnu dobře zvládnout a že uprchlíci mohou být obohacením naší společnosti. Zároveň děkujeme všem Pirátským i jiným dobrovolníkům, kteří se osobně zapojili do pomoci lidem v nouzi.
+Zastupitelé Pirátů v zastupitelstvu hl. m. Prahy, Brna a dalších měst jsou připraveni v zastupitelstvech podpořit konkrétní pomoc uprchlíkům, aby se integrovali (např. byty, sociální pomoc, integrační programy apod.). Jsme přesvědčeni, že s těmito změnami lze uprchlickou vlnu dobře zvládnout a že uprchlíci mohou být obohacením naší společnosti. Zároveň děkujeme všem Pirátským i jiným dobrovolníkům, kteří se osobně zapojili do pomoci peoplem v nouzi.
 
 Děkujeme také všem, kteří měli tu trpělivost dočíst tento text až do samého konce.
 
@@ -113,6 +113,6 @@ Děkujeme také všem, kteří měli tu trpělivost dočíst tento text až do s
 
 ### Kontakt
 
-* [Mgr. et Mgr. Jakub Michálek](https://www.pirati.cz/lide/jakub-michalek/), jakub.michalek@pirati.cz, 775 987 550 - vedoucí zastupitelského klubu Pirátů v Praze a autor původního návrhu stanoviska
-* [Ing. Lukáš Černohorský](https://www.pirati.cz/lide/lukas-cernohorsky/), lukas.cernohorsky@pirati.cz, 601 573 955 - předseda Pirátské strany
-* [PhDr. Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos/), Ph.D., ivan.bartos@pirati.cz, 603 415 378 - mediální odbor Pirátů
+* [Mgr. et Mgr. Jakub Michálek](https://www.pirati.cz/people/jakub-michalek/), jakub.michalek@pirati.cz, 775 987 550 - vedoucí zastupitelského klubu Pirátů v Praze a autor původního návrhu stanoviska
+* [Ing. Lukáš Černohorský](https://www.pirati.cz/people/lukas-cernohorsky/), lukas.cernohorsky@pirati.cz, 601 573 955 - předseda Pirátské strany
+* [PhDr. Ivan Bartoš](https://www.pirati.cz/people/ivan-bartos/), Ph.D., ivan.bartos@pirati.cz, 603 415 378 - mediální odbor Pirátů

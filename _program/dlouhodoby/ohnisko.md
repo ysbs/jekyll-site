@@ -7,7 +7,7 @@ topic: meta
 
 Internet se stal svobodným prostorem pro vyjadřování názorů, sdílení informací, práci a zábavu. Několik desetiletí se rozvíjel bez pozornosti politiků a velkých firem. Zbavil staré struktury monopolu na šíření informací a nyní je začíná zbavovat i monopolu ekonomického a mocenského…
 
-> 31\. května 2006 vtrhlo do serverovny portálu *The Pirate Bay* 65 policistů. Zabavili všechny servery, včetně těch, které s portálem neměly nic společného. V dubnu 2009 byli provozovatelé The Pirate Bay odsouzeni k ročnímu vězení a pokutě 80 milionů korun. Byli odsouzeni za to, že pomáhali lidem sdílet.
+> 31\. května 2006 vtrhlo do serverovny portálu *The Pirate Bay* 65 policistů. Zabavili všechny servery, včetně těch, které s portálem neměly nic společného. V dubnu 2009 byli provozovatelé The Pirate Bay odsouzeni k ročnímu vězení a pokutě 80 milionů korun. Byli odsouzeni za to, že pomáhali peoplem sdílet.
 
 Pro digitální generaci byl proces s *The Pirate Bay* poslední kapkou. Na celém světě vznikají Pirátské strany. Vyrůstají na občanském principu a rychle se šíří. Pirátské strany požadují právo lidí sdílet informace, respekt pro lidská práva a soukromí. Nechceme utajování vládních informací, zákazy kopírování, ani monopoly na technologie.
 

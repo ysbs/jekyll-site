@@ -7,7 +7,7 @@ topic: Otevřený stát
 
 Pomocí nových technologií zásadně zpřehledníme právní řád, aby jeho kvalita odpovídala požadavkům moderní informační společnosti. Vytvoříme volně dostupnou aplikaci, kde lidé získají přístup ke všem předpisům v propojené podobě. Pro zvýšení transparence budou lidé moci zákony připomínkovat během jejich vzniku i při jejich používání.
 
-Dnešní přebujelá byrokracie je výsledkem tlaku zájmových skupin, kterým vyhovuje lobbing a právní nejistota. Tento stav již nelze opravit záplatami; je potřeba zásadně změnit legislativní proces, zveřejnit seznam předpisů, které vůbec platí, zpřístupnit je na Internetu lidem ve svobodném informačním systému a zahájit reformu právního řádu.
+Dnešní přebujelá byrokracie je výsledkem tlaku zájmových skupin, kterým vyhovuje lobbing a právní nejistota. Tento stav již nelze opravit záplatami; je potřeba zásadně změnit legislativní proces, zveřejnit seznam předpisů, které vůbec platí, zpřístupnit je na Internetu peoplem ve svobodném informačním systému a zahájit reformu právního řádu.
 
 Předpisy musí být formulovány jednoznačně a jazykově bezvadně tak, aby v souhrnu utvářely ucelený a konzistentní právní řád. Každý předpis musí být nepostradatelný, vynutitelný a přiměřený. Pokud tyto cíle neplní, bude odstraněn nebo nahrazen. Prosadíme zákaz přílepků a povinné důvodové zprávy u všech návrhů, jak to požaduje demokratické minimum.
 

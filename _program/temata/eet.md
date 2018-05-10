@@ -205,7 +205,7 @@ EET poměrně jednoduchý datový model, který si ovšem každý
 dodavatel pro „stát“ nechá bezvadně zaplatit.  Andrej Babiš
 původní výběrové řízení zrušil a vybral firmu IBM, jejíž
 řešení bylo 9.5x dražší. Argumentem Andreje Babiše pro zadání
-„bez výběrka“ bylo nakládání s citlivým daty o lidech. K
+„bez výběrka“ bylo nakládání s citlivým daty o peoplech. K
 tomu ovšem jaksi při vývoji nedochází a při následné správě
 je už systém v rukou ministerstva.  IBM má se státem smlouvu do
 roku 2021, a ročně nás provoz bude stát 170miliónů. Skutečné

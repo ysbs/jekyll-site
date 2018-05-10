@@ -47,5 +47,5 @@ Statutární město Plzeň se roku 2002 zavázalo vybudovat kanalizaci v městsk
 ### Kontakty
 
 * [Mikuláš Ferjenčík](), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
-* [Ing. Lukáš Bartoň, Ph.D.](https://www.pirati.cz/lide/lukas_barton), [lukas.barton@pirati.cz](mailto:lukas.barton@pirati.cz) předseda KS Plzeňského kraje, 723 199 594
+* [Ing. Lukáš Bartoň, Ph.D.](https://www.pirati.cz/people/lukas_barton), [lukas.barton@pirati.cz](mailto:lukas.barton@pirati.cz) předseda KS Plzeňského kraje, 723 199 594
 * [Miluš Kotišová](), [milus.kotisova@pirati.cz](mailto:milus.kotisova@pirati.cz) koordinátorka pro Plzeňský kraj, 770 113 650

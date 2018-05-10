@@ -19,5 +19,5 @@ Vedení České pirátské strany je nyní kompletní a skládá se z předsedy 
 
 ### Kontakty
 
-* [Mikuláš Peksa](https://www.pirati.cz/lide/mikulas-peksa/), [mikulas.peksa@pirati.cz](mailto:mikulas.peksa@pirati.cz), místopředseda Pirátů
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), šéf mediálního odboru Pirátů, 737 943 770
+* [Mikuláš Peksa](https://www.pirati.cz/people/mikulas-peksa/), [mikulas.peksa@pirati.cz](mailto:mikulas.peksa@pirati.cz), místopředseda Pirátů
+* [Mikuláš Ferjenčík](https://www.pirati.cz/people/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), šéf mediálního odboru Pirátů, 737 943 770

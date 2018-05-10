@@ -41,7 +41,7 @@ permalink: /tiskove-zpravy/:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path/
+    permalink: /people/:path/
   program:
     output: true
     permalink: /program/:path/
@@ -98,7 +98,7 @@ title-page:
     icon: fa fa-map-signs
   right-top:
     text: Naši lidé
-    url: lide
+    url: people
     icon: fa fa-users
   left-bottom:
     text: Darujte

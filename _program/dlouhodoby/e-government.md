@@ -19,7 +19,7 @@ Za hlavní zásady e-governmentu ve veřejné správě považujeme:
 
 Uvědomujeme si, že e-government přináší také nové výzvy, zejména v oblasti ochrany osobních údajů a zabezpečení dat. Kromě přísného dodržování bezpečnostních standardů klademe důraz na oblasti:
 
-* **Svobodný software.** Pirátská strana prosazuje [svobodný software][svobodny-software], protože je bezpečnější, lze ho snadněji propojovat s ostatními programy a navíc je přístupný i lidem a široké komunitě vývojářů. Naší ambicí je, aby stát poskytl svobodný software ke splnění všech administrativně náročných povinností, které předepisuje (daně, účetnictví, výkazy práce apod.)
+* **Svobodný software.** Pirátská strana prosazuje [svobodný software][svobodny-software], protože je bezpečnější, lze ho snadněji propojovat s ostatními programy a navíc je přístupný i peoplem a široké komunitě vývojářů. Naší ambicí je, aby stát poskytl svobodný software ke splnění všech administrativně náročných povinností, které předepisuje (daně, účetnictví, výkazy práce apod.)
 * **Osobní údaje.** Navrhujeme zpřístupnění všech úředních formulářů v elektronické podobě. Díky základním registrům budou předvyplněny s maximálním možným množstvím osobních údajů. Občan získá právo vědět, kdo konkrétně přistupoval k jeho osobním údajům uchovávaným veřejnou správou.
 * **Vzdělávání uživatelů.** Z hlediska důvěry občanů v e-government je kromě zabezpečení systému klíčová počítačová gramotnost jeho uživatelů, kterou chceme rozvíjet ve školách, rekvalifikaci i úředním styku.
 
