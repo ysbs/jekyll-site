@@ -21,7 +21,7 @@ build:
     - built
 
 test:
-  stage: build
+  stage: test
   script:
   - echo "Link checker"
   artifacts:
