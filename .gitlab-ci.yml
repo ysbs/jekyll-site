@@ -2,7 +2,7 @@ variables:
   JEKYLL_ENV: production
 
 before_script:
-  - bundle install
+  - bundle install --path=vendor
   - npm install
   - ./node_modules/bower/bin/bower install
   - ./node_modules/gulp/bin/gulp.js
