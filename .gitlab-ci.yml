@@ -6,12 +6,6 @@ stages:
   - test
   - deploy
 
-before_script:
-  - bundle install --path=vendor
-  - npm install
-  - ./node_modules/bower/bin/bower install
-  - ./node_modules/gulp/bin/gulp.js
-
 cache:
   key: ${CI_COMMIT_REF_SLUG}
   paths:
@@ -23,6 +17,10 @@ cache:
 build:
   stage: build
   script:
+  - bundle install --path=vendor
+  - npm install
+  - ./node_modules/bower/bin/bower install
+  - ./node_modules/gulp/bin/gulp.js
   - bundle exec jekyll build -d built
 
 test:
