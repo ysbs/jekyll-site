@@ -12,6 +12,14 @@ before_script:
   - ./node_modules/bower/bin/bower install
   - ./node_modules/gulp/bin/gulp.js
 
+cache:
+  key: ${CI_COMMIT_REF_SLUG}
+  paths:
+  - node_modules/
+  - vendor/
+  - built/
+
+
 build:
   stage: build
   script:
