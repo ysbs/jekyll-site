@@ -38,7 +38,7 @@ Piráti podporují poslaneckou novelu zákona o České televizi a Českém Rozh
 ### Související odkazy
 
 - [Novela zákona o České televizi a Českém rozhlasu - sněmovní tisk](http://www.psp.cz/sqw/text/tiskt.sqw?O=7&CT=965&CT1=0)
-- [Vládní stanovisko s komentáři](https://svobodumediim.cz/aktuality/detail/132)
+- [Vládní stanovisko s komentáři](https://svobodumediim.cz/news/detail/132)
 
 ### Kontakty
 

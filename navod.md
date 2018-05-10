@@ -69,7 +69,7 @@ Návrhy na změnu (pull request) se projeví až po schválení. Ale i pokud má
 
 ## Články
 
-Články (aktuality) je možno přidávat v grafickém rozhraní:  
+Články (news) je možno přidávat v grafickém rozhraní:
 [**www.pirati.cz/admin**](https://www.pirati.cz/admin)
 Avšak potřebuje příslušná práva. Pro celostátní web je má MO.
 

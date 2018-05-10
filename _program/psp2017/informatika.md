@@ -13,7 +13,7 @@ relatives:
     - title: Digitální česko
       alt: Vize digitaizace českého státu
       url: http://www.pirati.cz/program/temata/digitalni-cesko/
-  - name: Aktuality
+  - name: News
     items:
     - title: Díky Pirátům teď může každý založit firmu online
       alt: Pirátská strana už nyní realizuje, co ostatní politici dosud jen slibovali. Díky Pirátům teď může každý založit firmu online

@@ -20,7 +20,7 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-paginate_path: "/aktuality/:num/"
+paginate_path: "/news/:num/"
 paginate: 11
 
 exclude:

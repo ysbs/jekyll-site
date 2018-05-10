@@ -77,8 +77,8 @@
         <div class="responsive-menu-inner">
           <div class="top-bar-left top-bar-footer-group">
             <ul class="dropdown menu" data-dropdown-menu="">
-              <li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
-                <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
+              <li {% if page.url contains 'news' %} class="is-active"{% endif %}>
+                <a href="{{'/news/' | relative_url }}">News</a>
               </li>
               <li{% if page.url contains 'o-nas' or page.url contains 'lide' or page.url contains 'regiony'%} class="is-active"{% endif %}>
                 <a href="{{ '/o-nas/' | relative_url }}">O nás</a>
