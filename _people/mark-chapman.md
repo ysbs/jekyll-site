@@ -5,7 +5,7 @@ fullname: Mark Chapman      # Full name including any titles
 category:               # Category: gov, nec, it, press
 - nec
 img: people/adam-zabransky.jpg   # 165 x 220
-description: As head spokesperson for the party Mark represents us in the media.    # Short desc. Max 160 chars
+description: Head Spokesperson   # Short desc. Max 160 chars
 mail:
 - m.chapman@pirateparty.org.uk
 profiles:
@@ -15,4 +15,4 @@ profiles:
 ordnec: 2 #ordgov and ordnec used to sort by importance
 ---
 
-SOMETHING ABOUT MARK
+As head spokesperson for the party Mark represents us in the media.

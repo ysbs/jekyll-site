@@ -6,7 +6,7 @@ category:               # Category: gov, nec, it, press
 - gov
 - it
 img: people/adam-zabransky.jpg   # 165 x 220
-description: Providing general Systems Administration as well as oversight on the board. Member since 2016.   # Short desc. Max 160 chars
+description: Governor and webmaster  # Short desc. Max 160 chars
 mail:
 - nstride@pirateparty.org.uk
 profiles:
