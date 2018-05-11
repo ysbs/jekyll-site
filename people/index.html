@@ -123,15 +123,6 @@ img: brand/logo.svg
                                     </div>
                                 </li>
                             </ul>
-                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#senat" class="c-simple-accordion-title">Senátoři s podporou Pirátů</a>
-                                    <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'senat'" | sort:"ordsenat" %}
-                                        {% include people/list-2col.html param=team %}
-                                    </div>
-                                </li>
-                            </ul>
                         </div>
                     </div>
                 </main>
