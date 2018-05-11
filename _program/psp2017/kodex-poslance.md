@@ -76,7 +76,7 @@ rozpočtu. To neplatí při výkonu mandátu, kde to Ústava neumožňuje, a v t
 jde o závazek voličům v morální rovině, postižitelný disciplinárními prostředky včetně řízení
 u rozhodčí komise Pirátů.
 
-Česká pirátská strana závazek podle tohoto kodexu přijme tím, že kandidáta, který se ke
+Pirate Party UK závazek podle tohoto kodexu přijme tím, že kandidáta, který se ke
 kodexu písemně přihlásil, zařadí na kandidátní listinu do voleb. Způsob jednání strany uvnitř
 a navenek včetně postupu prošetření podezření a zveřejnění výsledku prošetření upravují
 její [vnitřní předpisy](https://wiki.pirati.cz/rules/).

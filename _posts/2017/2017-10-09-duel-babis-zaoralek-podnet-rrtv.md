@@ -8,7 +8,7 @@ image: /assets/img/articles/2017/rrtv.jpg
 tags: kampaň
 ---
  
-Česká pirátská strana vyzvala TV Nova, aby poskytla více vysílacího času ostatním stranám nebo rozšířila počet účastníků plánovaného duelu Andreje Babiše a Lubomíra Zaorálka. Dle Pirátů Nova poruší Zákon o televizním a rozhlasovém vysílání, pokud poskytne prostor jen dvěma stranám. Piráti proto podali podnět Radě pro rozhlasové a televizní vysílání.
+Pirate Party UK vyzvala TV Nova, aby poskytla více vysílacího času ostatním stranám nebo rozšířila počet účastníků plánovaného duelu Andreje Babiše a Lubomíra Zaorálka. Dle Pirátů Nova poruší Zákon o televizním a rozhlasovém vysílání, pokud poskytne prostor jen dvěma stranám. Piráti proto podali podnět Radě pro rozhlasové a televizní vysílání.
  
 > „Pozvánku si tímto krokem vynutit nechceme. Ale více než polovina celého politického spektra by zůstala nezastoupena. Pereme se osm let za to, aby média informovala objektivně. To, že teď sami mediální prostor dostáváme, neznamená, že přestaneme po médiích objektivitu vyžadovat,“ vysvětluje předseda strany Ivan Bartoš.
  

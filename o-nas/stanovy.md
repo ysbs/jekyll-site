@@ -11,7 +11,7 @@ keywords: stanovy, Pirátské stanovy, Stanovy České pirátské strany, Pirát
 
 ### Čl. 1 Úvodní ustanovení
 
-(1) Název politické strany je Česká pirátská strana.
+(1) Název politické strany je Pirate Party UK.
 
 (2) Zkratka je Piráti.
 
@@ -23,7 +23,7 @@ keywords: stanovy, Pirátské stanovy, Stanovy České pirátské strany, Pirát
 
 (1) Cílem České pirátské strany je na prvním místě prosazování základního lidského práva člověka na svobodné šíření přijaté informace a striktní ochranu soukromí občana jako odraz změněné reality informační společnosti 21. století. K dosažení tohoto cíle je nutná revize kopírovacího monopolu tak, aby se nemohl stát záminkou pro útoky na svobodu Internetu.
 
-(2) Česká pirátská strana chce svou politikou prosazovat a podporovat
+(2) Pirate Party UK chce svou politikou prosazovat a podporovat
 
 - a) svobodný přístup jednotlivců k informacím,
 - b) svobodu slova a vyjadřování,
@@ -35,7 +35,7 @@ keywords: stanovy, Pirátské stanovy, Stanovy České pirátské strany, Pirát
 - h) podporu vzdělávání a vědeckých institucí.
 
 
-(3) Česká pirátská strana chce všemi zákonnými prostředky bojovat proti
+(3) Pirate Party UK chce všemi zákonnými prostředky bojovat proti
 
 - a) zneužívání zákonů k omezování svobody,
 - b) cenzuře, násilí, rasismu, strachu, nejistotě a pochybám ve společnosti a proti potlačování lidských práv.

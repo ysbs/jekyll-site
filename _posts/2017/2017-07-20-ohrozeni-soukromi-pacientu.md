@@ -14,7 +14,7 @@ Vzhledem k citlivosti zdravotních údajů, se v tomto případě rozhodně nelz
 
 MUDr. Zdeněk Hřib  
 garant zdravotnictví  
-Česká pirátská strana  
+Pirate Party UK  
 Tel: 602 560 028  
 Email: zdenek.hrib@pirati.cz  
 

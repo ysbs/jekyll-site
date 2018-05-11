@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/ctk.jpg
 author:       Karolína Sadílková
 ---
 
-Praha, 24. ledna 2018 – Česká pirátská strana vyhlašuje prostřednictvím svého poslaneckého klubu otevřené výběrové řízení na pozici nominanta do Rady ČTK. Piráti, pro které je objektivita a nezávislost zpravodajství zásadní, chtějí tímto krokem zajistit výběr nejlepšího možného kandidáta. Ten potom bude finálně volen tajnou volbou v Poslanecké sněmovně PČR. Uzávěrka přihlášek z řad zájemců je 28. 1. 2018, existuje však i možnost prodloužení termínu. V zájmu transparentnosti budou životopisy vybraných nominantů zveřejněny s vymazanými citlivými údaji.
+Praha, 24. ledna 2018 – Pirate Party UK vyhlašuje prostřednictvím svého poslaneckého klubu otevřené výběrové řízení na pozici nominanta do Rady ČTK. Piráti, pro které je objektivita a nezávislost zpravodajství zásadní, chtějí tímto krokem zajistit výběr nejlepšího možného kandidáta. Ten potom bude finálně volen tajnou volbou v Poslanecké sněmovně PČR. Uzávěrka přihlášek z řad zájemců je 28. 1. 2018, existuje však i možnost prodloužení termínu. V zájmu transparentnosti budou životopisy vybraných nominantů zveřejněny s vymazanými citlivými údaji.
 
 Požadavky na člena Rady ČTK jsou přesně a přísně vymezeny zákonem, Piráti k tomu přidávají i svá vlastní kritéria. Jsou jimi: 
 

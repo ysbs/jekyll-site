@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/inzerat.jpg
 author:       Jana Rohová
 ---
 
-Česká pirátská strana vyhlašuje veřejné výběrové řízení na pozici koordinátora Ústeckého kraje. Hledáte prestižní práci? Máte rádi výzvy? Chcete pomoci s narovnáváním politické kultury v zemi? Pak neváhejte a ukažte, co ve vás je!
+Pirate Party UK vyhlašuje veřejné výběrové řízení na pozici koordinátora Ústeckého kraje. Hledáte prestižní práci? Máte rádi výzvy? Chcete pomoci s narovnáváním politické kultury v zemi? Pak neváhejte a ukažte, co ve vás je!
 
 ### Co koordinátor dělá?
 

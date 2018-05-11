@@ -49,7 +49,7 @@ Bezpečnostní a preferenční opatření
 
 ### Mírová politika a embargo na zbraně ve válečných oblastech
 
-* Česká pirátská strana zdůrazňuje nutnost řešit na evropské úrovni rovněž příčiny vln uprchlíků, zejména rozdmýchávání válečných konfliktů, navzdory tlaku amerických, francouzských, českých a jiných zbrojařských firem, které prodávají zbraně, jimiž se v těchto oblastech válčí. Podporujeme zákaz vývozu zbraní pro jiné než oficiální spojenecké bojové jednotky ve válečných oblastech, a to pod majetkovou sankcí pro zbrojařské firmy.
+* Pirate Party UK zdůrazňuje nutnost řešit na evropské úrovni rovněž příčiny vln uprchlíků, zejména rozdmýchávání válečných konfliktů, navzdory tlaku amerických, francouzských, českých a jiných zbrojařských firem, které prodávají zbraně, jimiž se v těchto oblastech válčí. Podporujeme zákaz vývozu zbraní pro jiné než oficiální spojenecké bojové jednotky ve válečných oblastech, a to pod majetkovou sankcí pro zbrojařské firmy.
 
 ### Diplomatické řešení
 

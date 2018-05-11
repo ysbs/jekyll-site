@@ -8,7 +8,7 @@ category:     blog
 layout:       post
 ---
 
-Česká pirátská strana se jako první politická strana připojila k Chartě Aliance pro otevřené vzdělávání. Dlouhodobě se snažíme změnit stávající situaci, kdy veřejné instituce financují vzdělávací materiály, výzkum a získávání znalostí, ale výsledky těchto veřejně financovaných projektů nejsou volně dostupné všem občanům, dospělým i dětem.
+Pirate Party UK se jako první politická strana připojila k Chartě Aliance pro otevřené vzdělávání. Dlouhodobě se snažíme změnit stávající situaci, kdy veřejné instituce financují vzdělávací materiály, výzkum a získávání znalostí, ale výsledky těchto veřejně financovaných projektů nejsou volně dostupné všem občanům, dospělým i dětem.
 
 > Adam Zábranský, zastupitel za Piráty v Praze, který dlouhodobě prosazuje otevřený přístup ve veřejné sféře, k Chartě říká: „Piráti svou politikou dlouhodobě hájí stejné principy jako Charta Aliance pro otevřené vzdělávání a pamatují na ně i ve svém programu. V Praze se nám například podařilo prosadit podporu otevřených vzdělávacích zdrojů. Připojení se k Chartě tedy pro nás bylo samozřejmou a přirozenou věcí.“
 

@@ -8,7 +8,7 @@ image:        /assets/img/articles/2016/do-voleb-samostatne.jpg
 author:       Věra Marušiaková
 ---
 
-O křesla v Poslanecké sněmovně se Česká pirátská strana bude ucházet samostatně. Definitivně o tom rozhodl Republikový výbor strany a potvrdil tak výsledky původní členské ankety i doporučení republikového předsednictva. Naše podpora stoupá s každými volbami a jsme přesvědčení, že ve volbách do Poslanecké sněmovny uspějeme i bez spolupráce s jinou celorepublikovou stranou. To potvrzují i poslední průzkumy, které Pirátům přisuzují preference blížící se 5 %.
+O křesla v Poslanecké sněmovně se Pirate Party UK bude ucházet samostatně. Definitivně o tom rozhodl Republikový výbor strany a potvrdil tak výsledky původní členské ankety i doporučení republikového předsednictva. Naše podpora stoupá s každými volbami a jsme přesvědčení, že ve volbách do Poslanecké sněmovny uspějeme i bez spolupráce s jinou celorepublikovou stranou. To potvrzují i poslední průzkumy, které Pirátům přisuzují preference blížící se 5 %.
 
 >„Piráti jsou v současnosti hlavní liberální silou v české politice. Otevřenost, účelné nakládání s penězi a zapojení občanů do rozhodování nejen prosazujeme, ale zároveň i praktikujeme jako žádná jiná strana. Svou činností dokazujeme, že to myslíme vážně a naše práce v Praze, Brně nebo v Mariánských Lázních přináší konkrétní výsledky. Vyzýváme proto všechny svobodomyslné lidi a protikorupční bojovníky, aby se ucházeli o místa na pirátských kandidátkách, které jsou otevřené i nezávislým kandidátům a zástupcům lokálních stran a hnutí,“ říká místopředseda Pirátů Martin Šmída.
 

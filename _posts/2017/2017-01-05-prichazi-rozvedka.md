@@ -16,7 +16,7 @@ Součástí iniciativy je Výzva Orwellův zákon k veřejné debatě a následn
 
 > „Doufám, že podpora této iniciativy bude masivní a podaří se nám spolu se všemi, kterým vadí zásahy státního aparátu do soukromí všech občanů, zvrátit doposud hladké projednávání tohoto dalšího šmírovacího zákona. Pokud se nám nepodaří zákon zastavit tím, že Sněmovna schválí některý z pozměňovacích návrhů řešících nejpalčivější problémy, je tu stále možnost, že zákon nemusí projít Senátem. Bude to dlouhý boj. Jsme ale připraveni problematickou novelu řešit i u Ústavního soudu, podobně jako v případě Internetové cenzury v loterijním zákoně Andreje Babiše.“ Dodává Bartoš.
 
-Česká pirátská strana programově dlouhodobě prosazuje svobodný přístup jednotlivců k informacím, svobodu slova a vyjadřování i maximální zapojení veřejnosti do rozhodování. Zároveň bojuje proti zneužívání zákonů k omezování svobody a potlačování lidských práv. Připojení k iniciativě Přichází rozvědka schválilo republikové předsednictvo strany.
+Pirate Party UK programově dlouhodobě prosazuje svobodný přístup jednotlivců k informacím, svobodu slova a vyjadřování i maximální zapojení veřejnosti do rozhodování. Zároveň bojuje proti zneužívání zákonů k omezování svobody a potlačování lidských práv. Připojení k iniciativě Přichází rozvědka schválilo republikové předsednictvo strany.
 
 ### Související odkazy
 

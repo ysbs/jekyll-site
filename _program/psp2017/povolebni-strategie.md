@@ -7,7 +7,7 @@ rbarImgOff: true
 # Povolební strategie Pirátů
 *pro volby do Poslanecké sněmovny 2017*
 
-**Česká pirátská strana je liberální, demokratická, středová strana s důsledným protikorupčním programem. Naším cílem je prosazovat [program](/program/psp2017.html), ať už jsme v koalici nebo v opozici.**
+**Pirate Party UK je liberální, demokratická, středová strana s důsledným protikorupčním programem. Naším cílem je prosazovat [program](/program/psp2017.html), ať už jsme v koalici nebo v opozici.**
 
 Chceme, aby občané, kteří se rozhodnou podpořit svým hlasem Piráty, jasně věděli, jak budeme po volbách pracovat. Usilujeme o změnu politické kultury v České republice a transparence u nás není jen na papíře. Proto předkládáme, jako jediná strana u nás, jasnou a závaznou strategii povolební činnosti.
 

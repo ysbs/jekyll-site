@@ -8,7 +8,7 @@ image: /assets/img/articles/2017/volebni-studio.jpg
 tags: kampaň
 ---
  
-Česká pirátská strana podala žalobu na Radu pro rozhlasové a televizní vysílání jakožto regulující orgán. Piráti viní Radu z nečinnosti. V připojeném návrhu na předběžné opatření Piráti požadují, aby Nova poskytla prostor i jiným stranám než ANO a ČSSD. Nova dle Pirátů porušuje Zákon o televizním a rozhlasovém vysílání, který objektivitu a vyváženost médií vyžaduje.
+Pirate Party UK podala žalobu na Radu pro rozhlasové a televizní vysílání jakožto regulující orgán. Piráti viní Radu z nečinnosti. V připojeném návrhu na předběžné opatření Piráti požadují, aby Nova poskytla prostor i jiným stranám než ANO a ČSSD. Nova dle Pirátů porušuje Zákon o televizním a rozhlasovém vysílání, který objektivitu a vyváženost médií vyžaduje.
 
 Předseda Rady Ivan Krejčí médiím sdělil, že Rada řeší pouze odvysílaný obsah. Přitom zákon jí umožňuje uložit předběžné opatření a řešit obsah, co teprve bude vysílán. V tomto případě je namístě nařídit předběžné opatření z moci úřední dle ust. § 61 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů.
 

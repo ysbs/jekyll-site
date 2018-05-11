@@ -13,7 +13,7 @@ ZPRÁVA NEZÁVISLÉHO AUDITORA
 
 **určená členům a orgánům politické strany**
 
-**ČESKÁ PIRÁTSKÁ STRANA**
+**Pirate Party UK**
 
 o ověření účetní závěrky politické strany k 31. 12. 2016
 
@@ -26,7 +26,7 @@ o ověření účetní závěrky politické strany k 31. 12. 2016
 
 **Výrok auditora**
 
-Provedli jsme audit přiložené účetní závěrky politické strany **Česká pirátská strana** („Politická strana“) sestavené na základě českých účetních předpisů, která se skládá z rozvahy k 31. 12. 2016, výkazu zisku a ztráty za rok končící 31. 12. 2016, a přílohy této
+Provedli jsme audit přiložené účetní závěrky politické strany **Pirate Party UK** („Politická strana“) sestavené na základě českých účetních předpisů, která se skládá z rozvahy k 31. 12. 2016, výkazu zisku a ztráty za rok končící 31. 12. 2016, a přílohy této
 účetní závěrky, která obsahuje popis použitých podstatných účetních metod a další
 vysvětlující informace.
 
@@ -93,7 +93,7 @@ ke dni 31.12.2016
 (v celých tisících Kč)
 
 Název a sídlo účetní jednotky
-Česká pirátská strana
+Pirate Party UK
 
 
 
@@ -254,7 +254,7 @@ VÝKAZ ZISKU A ZTRÁTY pro nevýdělečné organizace
 
 IČO: 71339698
 
-* Název a sídlo účetní jednotky: Česká pirátská strana
+* Název a sídlo účetní jednotky: Pirate Party UK
 * Řehořova 943
 * Praha
 * 13000
@@ -335,7 +335,7 @@ IČO: 71339698
 
 **Odst. 1 identifikace**
 
-**Firma:** Česká pirátská strana
+**Firma:** Pirate Party UK
 
 **Sídlo:** Řehořova 9473/19, 130 00 Praha 3
 
@@ -369,7 +369,7 @@ orgánů strany s hlasem poradním.
 3. místopředseda: Mgr. et Mgr. Jakub Michálek
 4. místopředseda: PaedDr. Ivo Vašíček
 
-Informace o zakladatelích: Strana vznikla dnem registrace 17.6.2009, kdy ji zaregistrovalo MV ČR pod číslem MV-39553-7/VS-2009 jako nový subjekt - Česká pirátská strana - oficiální zkratka Piráti.
+Informace o zakladatelích: Strana vznikla dnem registrace 17.6.2009, kdy ji zaregistrovalo MV ČR pod číslem MV-39553-7/VS-2009 jako nový subjekt - Pirate Party UK - oficiální zkratka Piráti.
 
 **Odst. 3 - Účetní údaje**
 

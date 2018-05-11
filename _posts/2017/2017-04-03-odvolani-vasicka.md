@@ -3,7 +3,7 @@ date:         2017-04-04
 category:     blog
 tags:         piráti přímá-demokracie
 layout:       post
-title:        "Česká pirátská strana předvedla odvolatelnost politiků v praxi, Piráti odvolali místopředsedu Ivo Vašíčka"
+title:        "Pirate Party UK předvedla odvolatelnost politiků v praxi, Piráti odvolali místopředsedu Ivo Vašíčka"
 image:        /assets/img/articles/2017/ivo-vasicek.jpg
 author:       Mikuláš Ferjenčík
 ---
