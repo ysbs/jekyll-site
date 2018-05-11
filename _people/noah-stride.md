@@ -16,4 +16,8 @@ profiles:
 ordgov: 2 #ordgov and ordnec used to sort by importance
 ---
 
-Adam Zábranský (* 28. prosince 1993, Praha) je předseda zastupitelského klubu Pirátů v Zastupitelstvu hlavního města Prahy. V zastupitelstvu se věnuje hlavně odhalování kauz a prosazování transparentnosti. Momentálně studuje na Právnické fakultě Univerzity Karlovy, předtím čtyři roky studoval na Gymnáziu Jana Keplera a ještě předtím na Mensa gymnáziu. Od čtrnácti let přispíval na českou Wikipedii. Z etických důvodů se v osmnácti letech stal vegetariánem a v devatenácti veganem.
+Noah Stride first joined the party in 2016, immediately volunteering within the IT Team, a role he continues to fulfil today.
+He worked on the new infrastructure set up in 2017 and ran the project to design the new site introduced in 2018.
+
+In 2017, he stepped up to joining the board in order to help provide oversight in the party and to be able to provide some representation
+of the IT team.
