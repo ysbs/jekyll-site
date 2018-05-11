@@ -111,11 +111,6 @@ img: brand/logo.svg
                                             {% include people/list-2col.html param=team %}
                                         </div>
                                     </div>
-                                    <div class="c-simple-accordion-content-block">
-                                        <h3>Others</h3>
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'other'" %}
-                                        {% include people/list-2col.html param=team %}
-                                    </div>
                                 </li>
                             </ul>
                         </div>
@@ -124,38 +119,5 @@ img: brand/logo.svg
             </div>
         </section>
         <!-- /. o-section -->
-    </div>
-</div>
-{% comment %}
-# CSS_HACK: aby nebyl bílej proužek pod sliderem
-<div class="c-hero" style="margin-bottom: -1.5rem;position: relative;">
-{% endcomment %}
-<div class="c-hero">
-        <div class="row">
-            <div class="c-hero-container">
-            <div class="small-12 columns">
-                <div class="c-hero-block">
-                    <h1 class="c-hero__title">Our People</h1>
-                </div>
-                <div class="c-hero-block c-hero-content u-js-hiddenBeforeLoad">
-                    <div class="c-hero-slider orbit" role="region" aria-label="Our People" data-orbit="" data-use-m-u-i="false">
-                        <button class="orbit-previous">
-                            <span class="show-for-sr">Předchozí záložka</span>
-                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
-                        </button>
-                        <button class="orbit-next">
-                            <span class="show-for-sr">Další záložka</span>
-                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
-                        </button>
-                        <ul class="orbit-container">
-                            {% assign team = site.people | where_exp:"item","item.categories contains 'carousel'" | sort:"ordcar" %}
-                            {% for person in team %}
-                            {% include people/carousel.html param='person' %}
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
 </div>
