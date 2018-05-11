@@ -5,7 +5,7 @@ fullname: Nathanial Jebediah Hedges      # Full name including any titles
 category:               # Category: gov, nec, it, press
 - gov
 img: people/adam-zabransky.jpg   # 165 x 220
-description: Board member  # Short desc. Max 160 chars
+description: Governor # Short desc. Max 160 chars
 mail:
 - j.hedges@pirateparty.org.uk
 profiles:
