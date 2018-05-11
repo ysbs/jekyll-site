@@ -23,7 +23,7 @@ jako dnes, pouze místo 3 úřadů budou muset komunikovat pouze s jedním.
 
 ## [Výběr daní funguje i bez šmírování!][eet]
 
-Mezi úřady mají obíhat data, ne lidé. Sjednocením informací z
+Mezi úřady mají obíhat data, ne people. Sjednocením informací z
 daňových přiznání, finančních výkazů, katastru nemovitostí, registru
 vozidel atd. snížíme byrokracii s daněmi. Jako vedlejší efekt omezíme i
 větší úniky na daních, aniž bychom museli hlídat každou korunu.

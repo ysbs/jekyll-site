@@ -48,7 +48,7 @@ Každý rok bychom chtěli zdanění dále **snižovat o 1 procentní bod**.
 
 ## 5. Podívejme se, jak by to vypadalo v praxi
 
-Spočítali jsme daně a odvody na straně zaměstnance a zaměstnavatele, které lidé platí dnes. Lidé to často nevědí, ale **už dnes daní sazbou 48,6 %**.
+Spočítali jsme daně a odvody na straně zaměstnance a zaměstnavatele, které people platí dnes. People to často nevědí, ale **už dnes daní sazbou 48,6 %**.
 
 Naše reforma nebere žádnému resortu miliardy. Pouze **zjednodušuje výběr daně od zaměstnanců** do jedné sazby. Daně stát rozdělí zdravotním pojišťovnám a do důchodového systému, aby dostaly stejně jako dnes. Není tedy třeba se bát.
 

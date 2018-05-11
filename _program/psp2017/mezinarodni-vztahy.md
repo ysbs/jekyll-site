@@ -33,6 +33,6 @@ OSN k prosperitě celého našeho státu, světadílu i planety.
 ### Globální odpovědnost Česka
 
 * **Podporujeme symbolickou i konkrétní pomoc disentu v autoritářských zemích.** V rozumné podobě je nedílnou součástí naší diplomacie.
-* **Odmítneme vynucování hranic na internetu:** Zasazujeme se o to, aby lidé
+* **Odmítneme vynucování hranic na internetu:** Zasazujeme se o to, aby people
 ze všech zemí světa měli svobodný a anonymní přístup k internetu.
 * **Podporujeme revizi Úmluvy OSN o omamných látkách s cílem zásadně snížit vliv nelegálních drogových kartelů.**

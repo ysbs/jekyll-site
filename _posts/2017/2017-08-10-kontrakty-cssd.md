@@ -28,7 +28,7 @@ Zadinova firma Lasesmed od svého vzniku v roce 2008 uzavřela s pražskými ve�
 - **TRADE CENTRE PRAHA.** Tato městská firma měla s Lasesmedem mezi v letech 2014 a 2015 uzavřeny smlouvy zhruba za 3,5 milionu Kč na úklid, svoz odpadu a podobné služby.
 - **Praha 3.** Tato městská část od roku 2015 zadala Lasesmedu zakázky za **více než 2 miliony Kč**. Jedná se o vývoz košů na odpad a různé údržbové práce.
 - **Praha 5.** V letech 2012-2013 uzavřela Praha 5 s Lasesmedem smlouvy za **více než 2 miliony Kč** týkající se úklidu a údržby.
-- **Správa pražských hřbitovů.** Tato příspěvková organizace měla od roku 2015 s Lasesmedem uzavřenou smlouvu na údržbu zeleně a úklid za více než 1 milion Kč. Dnes již bývalý ředitel Správy pražských hřbitovů tvrdí, že lidé z ČSSD ho tlačili k tomu, aby některé zakázky zadával konkrétním firmám.
+- **Správa pražských hřbitovů.** Tato příspěvková organizace měla od roku 2015 s Lasesmedem uzavřenou smlouvu na údržbu zeleně a úklid za více než 1 milion Kč. Dnes již bývalý ředitel Správy pražských hřbitovů tvrdí, že people z ČSSD ho tlačili k tomu, aby některé zakázky zadával konkrétním firmám.
 
 #### Aktivity pana Ženíška a jeho firmy Premio Invest:
 

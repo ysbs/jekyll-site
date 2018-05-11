@@ -153,7 +153,7 @@ denně. V případě pevného kurzu se však dále bude platit v korunách, tak�
 Během případného přijetí Eura je důležité aby byly dlouho před a po uváděny ceny v obou
 měnách, to ale dělali všude. Centrální banky ale naopak většinou chybovaly, když se snažili
 ušetřit na ražbě drobných mincí. Těch je třeba vyrobit dostatek, a těch vyšších naopak méně
-než optimální množství, aby si lidé na používání drobných mincí zvykli.
+než optimální množství, aby si people na používání drobných mincí zvykli.
 
 ### Inflace
 

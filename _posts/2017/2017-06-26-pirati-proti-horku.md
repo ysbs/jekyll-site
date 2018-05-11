@@ -14,7 +14,7 @@ Protože nechceme, aby stromů dále ubývalo, prosazujeme, aby kácení stromů
 
 Při plánování a revitalizací veřejných prostorů je, kromě zeleně, nutné zapojit také vodní prvky. Do parků, oddychových zón a ostatních veřejných prostor je třeba instalovat pítka, v rekreační zeleni upravit vodní plochy, které lze napájet pomocí dešťové vody, ale hlavně z pramenů. Prameny jsou v zastavěném území v současné době vnímané jako škodná, většinou jsou sváděny do kanalizace. To je jednoduše plýtvání. Piráti hledají a prosazují taková řešení, která jsou šetrná k lidem, přírodnímu prostředí i z pohledu finančních nákladů. Využívání přírodních zdrojů vody je jedno z opatření tohoto typu.
 
-Rozpálené město významně ohrožuje naše zdraví. Přehřátí a nedostatek stínu v zeleni pod stromy způsobuje infarkty, mrtvice, potíže s dýcháním a kolabování z horka. Velmi ohroženou skupinou jsou starší občané nebo lidé nemocní, ale také malé děti v letním horku v kombinaci se smogem velmi trpí.
+Rozpálené město významně ohrožuje naše zdraví. Přehřátí a nedostatek stínu v zeleni pod stromy způsobuje infarkty, mrtvice, potíže s dýcháním a kolabování z horka. Velmi ohroženou skupinou jsou starší občané nebo people nemocní, ale také malé děti v letním horku v kombinaci se smogem velmi trpí.
 
 > „Chceme města, kde se dobře žije, a k tomu patří i rekreační funkce měst. Je hodně obyvatel velkých měst, kteří před vedrem nemohou utéct mimo město do přírody, pro ně jsou zeleň a dostupné parky jediná možnost rekreace a odpočinku,“ říká Dana Balcarová, garantka Pirátského programu v oblasti životního prostředí a zastupitelka na Praze 9.
 

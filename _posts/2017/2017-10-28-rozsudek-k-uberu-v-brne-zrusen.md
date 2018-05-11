@@ -12,6 +12,6 @@ Vrchní soud zrušil předběžné opatření zakazující digitální službu U
 
 Konkrétně je potřeba jasně stanovit, že řidič nemusí mít žlutý majáček TAXI a taxametr, pokud nestaví lidem na ulici, ale jezdí jen objednávky přes aplikaci. To úřady stále zpochybňují a řidiče pokutují. Dále by měla být určena hranice (např. od tržeb 10 000 Kč měsíčně), od které nejde o sdílenou ekonomiku, ale o standardní podnikání, kde mají všichni stejné podmínky – např. řidič má mít živnostenské oprávnění a pojištění odpovědnosti. Zákazník by měl být informován, zda jde o podnikatele či nikoliv.
 
-> „Vyzývám ministerstvo dopravy, aby novelu zákona o silniční přepravě urychleně připravilo. Výhody digitálních služeb by měli mít možnost využívat lidé ve všech městech Česka a na trh by se tak vrátila férová konkurence. Pokud ministerstvo dopravy nový zákon do Vánoc nepřipraví, předloží novelu do sněmovny Piráti,“ uvedl k záležitosti předseda poslaneckého klubu Pirátů, Jakub Michálek. 
+> „Vyzývám ministerstvo dopravy, aby novelu zákona o silniční přepravě urychleně připravilo. Výhody digitálních služeb by měli mít možnost využívat people ve všech městech Česka a na trh by se tak vrátila férová konkurence. Pokud ministerstvo dopravy nový zákon do Vánoc nepřipraví, předloží novelu do sněmovny Piráti,“ uvedl k záležitosti předseda poslaneckého klubu Pirátů, Jakub Michálek. 
 
 * [Podrobný návrh Pirátů](https://praha.pirati.cz/sdilena-ekonomika.html)

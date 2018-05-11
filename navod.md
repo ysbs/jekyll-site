@@ -78,7 +78,7 @@ Avšak potřebuje příslušná práva. Pro celostátní web je má MO.
 Tagy neoddělujeme čárkami, ale pouze mezerou.
 Zvolit správný tag není jednoduché - musí být vystižný, ale zároveň dost obecný, aby dával smysl i u dalších článků.
 
-## Lidé a další stránky
+## People a další stránky
 
 Pro jednoduchou úpravu textu stačí tlačítko vpravo dole nad patičkou "Navrhni úpravu".
 
@@ -125,4 +125,4 @@ Některé stránky jsou složitější a je potřeba znalost HTML. Seznámení s
 3. Hlavička, patička, pravý sloupec jsou ve složce `_includes`
 
 Članky: 1300x744
-People (lidé), foto 165x220
+People (people), foto 165x220

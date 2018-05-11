@@ -16,7 +16,7 @@ Piráti se dále shodli, že prezident by neměl společnost rozdělovat, naopak
 
 > „Prezident má jít příkladem. Například nemá neustále urážet a zesměšňovat své protivníky. K tomu role prezidenta sloužit nemá,” připomněla první místopředsedkyně Pirátské strany Olga Richterová.
 
-O přímé volbě prezidenta rozhodl parlament v roce 2011. Pro Piráty je důležité, aby občané svého práva volit využili a nepropadli skepsi a lhostejnosti: „Piráti důvěřují zdravému rozumu voličů, proto nedávají návod, koho mají lidé volit. Mezi devíti kandidáty je několik skutečně kvalitních osobností,” komentuje předvolební situaci Ivan Bartoš.
+O přímé volbě prezidenta rozhodl parlament v roce 2011. Pro Piráty je důležité, aby občané svého práva volit využili a nepropadli skepsi a lhostejnosti: „Piráti důvěřují zdravému rozumu voličů, proto nedávají návod, koho mají people volit. Mezi devíti kandidáty je několik skutečně kvalitních osobností,” komentuje předvolební situaci Ivan Bartoš.
 
 Piráti rovněž uspořádali anketu mezi svými členy. Na otázku, koho by volili v prvním kole, odpovědělo přes 200 lidí. Přes 40 % by důvěřovalo Marku Hilšerovi, pětina Pirátů by dala hlas Jiřímu Drahošovi a 17 % hlasujících Pirátů chce podpořit Michala Horáčka. 
 

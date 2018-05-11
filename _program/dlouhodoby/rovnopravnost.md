@@ -19,7 +19,7 @@ Pro zajištění rovnoprávnosti je potřeba dlouhodobé řešení, nikoliv nař
 
 Všeobecná a rovná dostupnost veřejných služeb pro rodinu a vzdělání brání propadu sociálně slabých do vyloučení ze společnosti a přenosu vyloučení na další generace. Dostupnost veřejných služeb ale podpoří i zakládání rodin lidmi, kteří nejsou ohroženy sociálním vyloučením. Podpora zakládání rodin rovněž povede k posílení demografické struktury celé společnosti.
 
-Není úkolem státu předepsat, jak konkrétně by rodina měla fungovat. Stát peoplem nesmí určovat formy soužití. Je důležité podporovat lidská soužití, ve kterých lidé, bez ohledu na jejich počet a pohlaví, přebírají odpovědnost jeden za druhého, za děti, staré lidi nebo ty slabší. I bez dětí jsou soužití principiálně vítána.
+Není úkolem státu předepsat, jak konkrétně by rodina měla fungovat. Stát peoplem nesmí určovat formy soužití. Je důležité podporovat lidská soužití, ve kterých people, bez ohledu na jejich počet a pohlaví, přebírají odpovědnost jeden za druhého, za děti, staré lidi nebo ty slabší. I bez dětí jsou soužití principiálně vítána.
 
 Respektujeme přirozené právo dítěte na rodičovskou výchovu, i když se rodiče rozhodli žít odděleně. Pokud se rodiče na péči o dítě nedohodnou, budeme prosazovat rovnocennou možnost obou rodičů se na výchově svého dítěte podílet, kdykoliv to připadá v úvahu.
 

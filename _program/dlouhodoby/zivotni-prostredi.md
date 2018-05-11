@@ -9,9 +9,9 @@ topic: Sdílení
 
 Životní prostředí sdílíme všichni. Na příznivém životním prostředí závisí i naše svoboda. Smog omezuje naši svobodu vycházet, znečištění půdy naši svobodu pít ze studny a podobně. Pirátská strana má za cíl zlepšení stavu životního prostředí a větší zapojení občanů do rozhodování politik životního prostředí pomocí přímé demokracie.
 
-Podobně jako v celém programu považujeme za nezbytnou dostupnost informací a transparenci rozhodování. Lidé mají právo na snadný přístup k informacím o provozu průmyslových závodů a jejich vlivu na životní prostředí. Prosazujeme, aby měli lidé také více informací o výrobcích v obchodech, přidaných látkách, surovinách a jejich vlivu na zdraví a životní prostředí, včetně testování na zvířatech.
+Podobně jako v celém programu považujeme za nezbytnou dostupnost informací a transparenci rozhodování. People mají právo na snadný přístup k informacím o provozu průmyslových závodů a jejich vlivu na životní prostředí. Prosazujeme, aby měli people také více informací o výrobcích v obchodech, přidaných látkách, surovinách a jejich vlivu na zdraví a životní prostředí, včetně testování na zvířatech.
 
-Informovanost je klíčová také v oblasti územního plánování. Lidé mají mít možnost aktivně se zapojit do projednávání otázek týkajících se územního plánování, krajiny a životního prostředí a mají mít reálnou možnost vyvolat o těchto otázkách referendum.
+Informovanost je klíčová také v oblasti územního plánování. People mají mít možnost aktivně se zapojit do projednávání otázek týkajících se územního plánování, krajiny a životního prostředí a mají mít reálnou možnost vyvolat o těchto otázkách referendum.
 
 V oblasti životního prostředí jsou pro nás dále klíčové následující body:
 

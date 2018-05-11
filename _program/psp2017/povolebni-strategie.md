@@ -13,7 +13,7 @@ Chceme, aby občané, kteří se rozhodnou podpořit svým hlasem Piráty, jasn�
 
 Pokud dostaneme důvěru občanů, budeme se účastnit vyjednávání vlády s cílem dostat maximum našich priorit do vládního programu (viz následující strana). Nelpíme ale za každou cenu na zisku dobře placených funkcí. Jsme připraveni i na roli kritické, ale konstruktivní opozice.
 
-Budeme jednat se všemi ostatními politickými stranami. Naše podpora libovolné vlády je podmíněna tím, že do vlády nebudou nominováni lidé nekompetentní nebo s korupční historií. V žádném případě nepodpoříme vládu s účastí subjektů ohrožujících základy liberální demokracie nebo s historickým dědictvím likvidace demokracie v této zemi, tj. zejména s účastí KSČM, SPD nebo s převahou ANO.
+Budeme jednat se všemi ostatními politickými stranami. Naše podpora libovolné vlády je podmíněna tím, že do vlády nebudou nominováni people nekompetentní nebo s korupční historií. V žádném případě nepodpoříme vládu s účastí subjektů ohrožujících základy liberální demokracie nebo s historickým dědictvím likvidace demokracie v této zemi, tj. zejména s účastí KSČM, SPD nebo s převahou ANO.
 
 Pokud dostaneme od voličů mandát nominovat ministry, vybereme z řad členů a příznivců odborníky v dané oblasti, kteří předloží nejlepší záruky plnění našeho programu. Výběr ministrů a jakákoliv smlouva o povolební spolupráci (uzavření koaliční smlouvy, tolerance menšinové vlády, ...) podléhají souhlasu celostátního fóra Pirátské strany.
 

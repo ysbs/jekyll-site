@@ -18,7 +18,7 @@ Finanční úřad chtěl po 1. Pirátské s.r.o. do 15 dnů doložit řadu forma
 
 Realita je bohužel taková, že podnikatele v blízké době čekají i další obstrukce, kterými budou podávání měsíčního přiznání k DPH a kontrolních hlášení.
 
-Pirátská strana nesmyslnou šikanu zastaví. Po úřadech mají obíhat data, nikoliv lidé.
+Pirátská strana nesmyslnou šikanu zastaví. Po úřadech mají obíhat data, nikoliv people.
 
 ### Odkazy
 

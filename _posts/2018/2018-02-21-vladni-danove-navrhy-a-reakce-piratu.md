@@ -14,7 +14,7 @@ Praha, 21. února 2018 – Menšinová vláda v demisi navrhuje prostřednictví
  
 Piráti nepovažují za nutné snižovat daně vysokopříjmovým skupinám, které by dle návrhu ušetřily nejvíce. Krom toho návrh zavádí možnost OSVČ odečíst si od základu daně tři čtvrtiny zaplaceného pojistného. Navržené změny by znamenaly výpadek z rozpočtu ve výši 28 miliard Kč. Ty zůstanou v peněženkách daňových poplatníků.
  
-Za vhodné Piráti nepovažují ani zrušení výpočtu ze superhrubé mzdy, protože tím stát opětovně občanům zakryje, kolik peněz ve skutečnosti inkasuje na daních a pojistném: „Piráti budou v jednání o daňovém balíčku prosazovat razantní zjednodušení, a to jednu daň z příjmu zahrnující všech šest daní a odvodů. Jasně a transparentně lidé uvidí, kolik platí na provoz státu,“ uzavírá aktuální téma Jakub Michálek.
+Za vhodné Piráti nepovažují ani zrušení výpočtu ze superhrubé mzdy, protože tím stát opětovně občanům zakryje, kolik peněz ve skutečnosti inkasuje na daních a pojistném: „Piráti budou v jednání o daňovém balíčku prosazovat razantní zjednodušení, a to jednu daň z příjmu zahrnující všech šest daní a odvodů. Jasně a transparentně people uvidí, kolik platí na provoz státu,“ uzavírá aktuální téma Jakub Michálek.
 
 **ANO v daňovém balíčku ministryně Schillerové navrhuje následující změny:**
  
@@ -34,7 +34,7 @@ Piráti **podporují snížení daní z příjmu, a to zejména pro střední vr
 * Zrušení superhrubé mzdy považujeme za krok špatným směrem, protože **stát bude zase lidem zastírat, kolik peněz za ně ve skutečnosti jde celkem státu na daních a pojistném.** Tato změna je nicméně čistě administrativní.
 * **Už tak komplikovaný daňový systém se dále komplikuje** odpočtem procentuální částky pro živnostníky. To je problém a budeme hledat možnosti zjednodušení.
  
-**Piráti budou v jednání o daňovém balíčku prosazovat razantní zjednodušení, a to jednu daň z příjmu, která by zahrnula všech 6 daní a odvodů do jedné daně. Jasně a transparentně by tak lidé viděli, kolik platí na provoz státu.**
+**Piráti budou v jednání o daňovém balíčku prosazovat razantní zjednodušení, a to jednu daň z příjmu, která by zahrnula všech 6 daní a odvodů do jedné daně. Jasně a transparentně by tak people viděli, kolik platí na provoz státu.**
  
 V rámci této jedné daně může být i více pásem a sazeb, ale nebude už nutné zvlášť počítat pojistné a odvody. Oproti Pirátskému návrhu na jednu daň z příjmu je návrh ANO kosmetickou změnou, která daňový systém dále komplikuje.
 

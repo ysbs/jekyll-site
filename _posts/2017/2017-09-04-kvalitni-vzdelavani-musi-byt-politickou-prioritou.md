@@ -20,7 +20,7 @@ Překážkami v naplnění této vize jsou v první řadě snaha o centralizaci 
 
 Obě strany se také shodují v tom, že **obsah výuky** je nutné přizpůsobit **potřebám života v 21. století.** Snahy o glajšaltování žáků a standardizaci obsahu výuky neodpovídají světu, ve kterém stále rychleji přicházejí nové hrozby i nové příležitosti.
 
-> “Chceme školu, z níž vychází mladí lidé se zdravým sebevědomím a schopností orientovat se v rychle se měnícím světě. Ve všech školách by se děti měly učit základům právního systému, finanční gramotnosti, mediální gramotnosti i kritickému myšlení. Široce pojatá kyberbezpečnost by také měla být součástí výuky,” uvádí Kryštof Kozák a doplňuje pirátský garant pro vzdělání Daniel Mazur: “Vzdělání připravuje občany pro budoucnost země, a ta je stále méně předvídatelná. Má-li děti připravit pro období za 10 až 60 let, je třeba napříč školami včetně odborných klást důraz na obecně využitelné schopnosti a na připravenost každého se učit novému po celý život.”
+> “Chceme školu, z níž vychází mladí people se zdravým sebevědomím a schopností orientovat se v rychle se měnícím světě. Ve všech školách by se děti měly učit základům právního systému, finanční gramotnosti, mediální gramotnosti i kritickému myšlení. Široce pojatá kyberbezpečnost by také měla být součástí výuky,” uvádí Kryštof Kozák a doplňuje pirátský garant pro vzdělání Daniel Mazur: “Vzdělání připravuje občany pro budoucnost země, a ta je stále méně předvídatelná. Má-li děti připravit pro období za 10 až 60 let, je třeba napříč školami včetně odborných klást důraz na obecně využitelné schopnosti a na připravenost každého se učit novému po celý život.”
 
 ### Kontakty
 

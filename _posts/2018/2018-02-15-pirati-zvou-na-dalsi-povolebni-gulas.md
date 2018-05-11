@@ -19,7 +19,7 @@ Problematikou potravinových bank se zabývá pirátská poslankyně Olga Richte
 
 > „Novela zákona chce realizovat záslužnou myšlenku. Bohužel, bez dostatku financí ztrácí smysl. Zaměstnanci bank i dobrovolníci se vlastními prostředky a silami snaží o to, aby potraviny nemusely končit v odpadu. To mimo jiné obnáší i neohodnocenou práci v přesčasech. Situaci proto chceme řešit i se zástupci potravinových bank.“
  
-Piráti uvažují o zřízení účtu, kam by lidé mohli posílat peníze na podporu potravinových bank. Stále více dobrovolníků i sponzorů má zájem přispět k jejich činnosti i podílet se na dobrovolnické akci Pirátů: 
+Piráti uvažují o zřízení účtu, kam by people mohli posílat peníze na podporu potravinových bank. Stále více dobrovolníků i sponzorů má zájem přispět k jejich činnosti i podílet se na dobrovolnické akci Pirátů: 
 
 > „Zveme každého, aby přišel v neděli k pražskému Hlavnímu nádraží, dal si guláš a přesvědčil se, že tato pravidelná pomoc má smysl,“ uzavírá poslankyně Richterová.
 

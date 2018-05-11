@@ -10,7 +10,7 @@ author:       Petr Dvořáková
 
 Na Islandu 29. října probíhají parlamentní volby, které pro mezinárodní pirátské hnutí znamenají zásadní přelom. V posledních průzkumech se totiž Piráti s 20 % podpory přetahují o prvenství s vládní Stranou nezávislosti. Piráti mají ve stávajícím parlamentu tři poslance. Jejich podpora pak zásadně stoupla po aféře Panama Papers, v níž byl zapleten i islandský premiér. Znechucení netransparentním zkostnatělým systémem Islanďany přesvědčilo dát změně šanci. Definitivně rozhodnuto bude ve 23:00 našeho času, kdy se zavřou poslední volební místnosti.
 
-> „Nejde jenom o budoucnost Islandu. Stále se najdou lidé, kteří Piráty už kvůli jménu vnímají jen jako rebely. Islandští Piráti teď můžou ukázat, že naše politika funguje, že sebou Piráti skutečně nesou pozitivní změnu – a může tak nastartovat řetězovou reakci po celé Evropě,“ potvrzuje zásadní význam dnešních voleb předseda českých Pirátů Ivan Bartoš.
+> „Nejde jenom o budoucnost Islandu. Stále se najdou people, kteří Piráty už kvůli jménu vnímají jen jako rebely. Islandští Piráti teď můžou ukázat, že naše politika funguje, že sebou Piráti skutečně nesou pozitivní změnu – a může tak nastartovat řetězovou reakci po celé Evropě,“ potvrzuje zásadní význam dnešních voleb předseda českých Pirátů Ivan Bartoš.
 
 Na druhém místě se v průzkumech umisťuje Strana nezávislosti, která již zemi vládla mnoho let a kvůli jejímuž jednání zemi silně zasáhla finanční krize v roce 2008. Dnešek je tak bez nadsázky soubojem zástupců starých (ne)pořádků s novou progresivní stranou odhodlanou systém změnit. Pirátská strana vznikla na Islandu v roce 2012.
 

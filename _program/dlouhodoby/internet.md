@@ -7,7 +7,7 @@ topic: Sdílení
 
 Dovedete si představit, že vás odstřihnou od Internetu? Nenajdete si jízdní řád, nepošlete bankovní příkaz, neseženete kvalifikovanou práci, nepošlete e-mail a nepřečtete si aktuální zprávy? Proto Piráti prosazují přístup k Internetu jako základní právo.
 
-Lidé Internet používají pro práci, vzdělávání, zábavu i sociální kontakt. A jsou právem rozhořčeni, pokud jim někdo Internet zakazuje nebo jim blokuje přístup k informacím, které hledají. Pirátská strana prosazuje, aby stát do komunikace mezi lidmi na Internetu nijak nezasahoval.
+People Internet používají pro práci, vzdělávání, zábavu i sociální kontakt. A jsou právem rozhořčeni, pokud jim někdo Internet zakazuje nebo jim blokuje přístup k informacím, které hledají. Pirátská strana prosazuje, aby stát do komunikace mezi lidmi na Internetu nijak nezasahoval.
 
 Státy proto nesmí Internet vypínat, odpojovat lidi a blokovat přístup podle seznamu zakázaných stránek. **Stát totiž ani nesmí sledovat přenášené informace**, které by mu to umožnily, a to ani prostřednictvím poskytovatelů internetového připojení.
 

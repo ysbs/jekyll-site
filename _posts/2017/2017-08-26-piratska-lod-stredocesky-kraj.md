@@ -16,7 +16,7 @@ Loď se nyní přesouvá do středních Čech. První zastávkou ve Středočesk
 
 > „Příští týden se opět poplavíme po Labi. V úterý zastavíme v Neratovicích a ve středu budeme v Brandýse – opět s Ivanem Bartošem. Ve čtvrtek v Poděbradech a v pátek v Nymburce se budou zastávky lodi opět křižovat s FreeRide Tour, na které nemůže Ivan Bartoš chybět. Prakticky při všech zastávkách se můžou návštěvníci svézt lodí a poslechnout si i výklad o jejích technických detailech. A například v Neratovicích chystáme piknik,“ popisuje plány František Kopřiva, koordinátor plavby ve Středočeském kraji a kandidát Pirátů pro Sněmovní volby.
 
-Pirátská plavba do Sněmovny je součástí kampaně a představuje program Pirátů a jejich kandidáty pro sněmovní volby. Pravidelně se kříží se zastávkami FreeRide Tour Ivana Bartoše. Kromě těchto akcí mají lidé možnost potkat ještě pirátský autobus, který do voleb navštívit všechna okresní města v zemi.
+Pirátská plavba do Sněmovny je součástí kampaně a představuje program Pirátů a jejich kandidáty pro sněmovní volby. Pravidelně se kříží se zastávkami FreeRide Tour Ivana Bartoše. Kromě těchto akcí mají people možnost potkat ještě pirátský autobus, který do voleb navštívit všechna okresní města v zemi.
 
 ## Odkazy  
 

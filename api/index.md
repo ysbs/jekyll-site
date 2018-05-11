@@ -9,7 +9,7 @@ Přístupné je:
 - sitemap: [sitemap.xml]({{'/sitemap.xml' | relative_url}})
 - news: [api/posts.json]({{ '/api/posts.json' | relative_url}})
 - program: [api/program.json]({{'/api/program.json' | relative_url}})
-- lidé: [api/people.json]({{'/api/people.json' | relative_url}})
+- people: [api/people.json]({{'/api/people.json' | relative_url}})
 - týmy: [api/teams.json]({{'/api/teams.json' | relative_url}})
   - regiony: [api/regions.json]({{'/api/regions.json' | relative_url}})
 - tags [api/tags.json]({{'/api/tags.json' | relative_url}})

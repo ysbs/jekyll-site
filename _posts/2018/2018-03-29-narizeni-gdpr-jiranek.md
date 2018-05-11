@@ -17,7 +17,7 @@ Praha, 29. března 2018 – Datum účinnosti nařízení o ochraně osobních �
  
 Jiná situace bude u malých firem, které působí v digitálním prostředí a data jsou jedním z hlavních předmětů jejich podnikání. Těchto subjektů se dotknou všechny nebo většina nových povinností vyplývajících z GDPR. Tyto firmy by přípravu na předpis, který vstoupí v platnost 25. května, rozhodně neměly podcenit. I firma o dvou zaměstnancích může mít povinnost jmenovat pověřence pro ochranu osobních údajů či vypracovat analýzu dopadů na ochranu osobních údajů.
  
-> V případě GDPR je především třeba promyslet vlastní situaci. V mnoha případech lidé zjistí, že GDPR nic nezmění. „Pokud si stále nejste jisti, poptejte právního poradce. Počítejte ale s tím, že tito poradci nikdy neponesou za své závěry odpovědnost a případné sankce na ně nebudete moci převést,“ uzavírá Jiránek.
+> V případě GDPR je především třeba promyslet vlastní situaci. V mnoha případech people zjistí, že GDPR nic nezmění. „Pokud si stále nejste jisti, poptejte právního poradce. Počítejte ale s tím, že tito poradci nikdy neponesou za své závěry odpovědnost a případné sankce na ně nebudete moci převést,“ uzavírá Jiránek.
 
 Užitečné informace a interaktivního průvodce najdou zájemci na stránkách [Sdružení pro internetový rozvoj] (http://gdpr.spir.cz). 
 

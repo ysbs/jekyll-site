@@ -11,7 +11,7 @@ topic: meta
     Překotný rozvoj technologií vyvolává změny, na které současné staré struktury nestačí reagovat. Nezvládnuté společenské důsledky rozvoje technologií vedly ke vzniku Pirátských stran. Prostředky Internetu jsme organicky začlenili do svého fungování. Umožňují informační otevřenost, transparentní účty a přímou demokracii. Použijeme je i pro řízení a kontrolu státu.
 2. **Jasný záměr: Stát nesmí technologie zneužívat, ale využívat**
     Pirátský program pro informační společnost řeší problémy, které staré struktury zvládnout neumějí nebo nechtějí. Vlády států musí přestat nové technologie zneužívat ke sledování lidí a údržbě starých monopolů, a začít je využívat ke svobodnému přístupu k informacím, lepšímu vzdělávání a účinnější ochraně soukromí.
-3. **Lidé mají právo rozhodovat se na základě informací**
+3. **People mají právo rozhodovat se na základě informací**
     Zveřejněné informace jsou na rozdíl od věcí volně šiřitelné a jejich hodnota spočívá právě v tom, že je lze sdílet. Proto odmítáme umělé monopoly na informace, které stát peoplem pod tlakem korporací vnucuje. Otevřený přístup k informacím umožňuje lepší rozhodování lidí. Pomocí přímé demokracie mohou svá rozhodnutí i prosadit.
 4. **Informační otevřenost snižuje náklady, zvyšuje efektivitu a usnadňuje peoplem život**
     Vědecké články, kulturní díla, zákony, státní normy a jiná díla placená z veřejných prostředků chceme zpřístupnit všem na Internetu. Politické strany a jiné spolky placené z veřejných prostředků musí mít transparentní účet a účetnictví na Internetu.

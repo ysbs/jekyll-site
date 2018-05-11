@@ -14,7 +14,7 @@ Piráti chystají jednu z největších akcí na podporu volební účasti v his
 
 Piráti věří, že získají dobrovolníky z řad advokátů a dalších subjektů, které mohou ověřovat podpisy, tedy například notáře. Mezi náležitosti žádosti o voličský průkaz patří totiž i ověřený podpis.
 
-> „Inspirovali jsme se v Americe a Británii, kde se lidé k volbám registrují. Akcí na podporu volební účasti připravujeme vícero. Měřítkem úspěšnosti voleb totiž není jen náš výsledek, ale i celková volební účast. V prvních letech po revoluci volili téměř všichni – dobrovolně. Věřili v pozitivní změnu, kterou demokracie přinese. Neúčast u voleb je pro mnohé určitá forma protestu. Přitom jediný protest je jít volit,“ shrnuje Bartoš.
+> „Inspirovali jsme se v Americe a Británii, kde se people k volbám registrují. Akcí na podporu volební účasti připravujeme vícero. Měřítkem úspěšnosti voleb totiž není jen náš výsledek, ale i celková volební účast. V prvních letech po revoluci volili téměř všichni – dobrovolně. Věřili v pozitivní změnu, kterou demokracie přinese. Neúčast u voleb je pro mnohé určitá forma protestu. Přitom jediný protest je jít volit,“ shrnuje Bartoš.
  
 Vyřídit si voličský průkaz „na ulici“ bude možné mezi 1. a 10. říjnem.
 

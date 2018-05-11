@@ -32,7 +32,7 @@ Co děláme?
 Jak se můžete zapojit?
 ----------------------
 
-**Nabízíme šanci lidem působícím v sociálním systému (sociálním pracovníkům, pracovníkům v náhradní rodinné péči, …) i na zdravotně sociálním pomezí (domácí péče, lidé se speciálními potřebami), expertům na dostupné bydlení nebo lidem se zkušeností ze sociálních odborů obcí či krajů revidovat stávající legislativu, připomínkovat nové zákony a dát zpětnou vazbu založenou na zkušenostech.**
+**Nabízíme šanci lidem působícím v sociálním systému (sociálním pracovníkům, pracovníkům v náhradní rodinné péči, …) i na zdravotně sociálním pomezí (domácí péče, people se speciálními potřebami), expertům na dostupné bydlení nebo lidem se zkušeností ze sociálních odborů obcí či krajů revidovat stávající legislativu, připomínkovat nové zákony a dát zpětnou vazbu založenou na zkušenostech.**
 
 Pokud souhlasíte s [Pirátským programem v oblasti práce a sociálních věcí](https://www.pirati.cz/program/psp2017/prace-a-socialni-veci/) a chcete nám pomoci, ozvěte se prosím asistentce Olgy Richterové, Zuzaně Freitasové, na tel. 776 278 860 nebo na <freitas.zuzana@gmail.com>. Rádi vás pozveme na naše setkání.
 

@@ -26,7 +26,7 @@ Svoje turné ve Zlínském kraji zakončil předseda Pirátů v Uherském Hradi�
 
 ![Ivan s kolemjdoucími]({{ '/assets/img/articles/2017/ivan4.jpg' | relative_url }} "Ivan s občany")
 
-"Bylo to náročný, ale vydařený. Kampaň je neskutečně živá a opravdová. Díky za pozvání, organizaci eventů, angažovanost, kapele v Otrokovicich, majiteli U Rybičky a hlavně lidem, kteří se na nás přišli podívat. Potěšilo mě, že lidi, co už nás znají, s našim úspěchem ve volbách 2017 normálně počítají. Překvapilo mě, kolik lidí zaznamenalo na síti naši "Pirátskou baladu o úřadech". Písničku, kterou na začátku zpívám, si vyžadovali lidé zahrát na každé mé zastávce." Komentoval svůj nabitý den ve Zlínském kraji Ivan Bartoš na sociálních sítích.
+"Bylo to náročný, ale vydařený. Kampaň je neskutečně živá a opravdová. Díky za pozvání, organizaci eventů, angažovanost, kapele v Otrokovicich, majiteli U Rybičky a hlavně lidem, kteří se na nás přišli podívat. Potěšilo mě, že lidi, co už nás znají, s našim úspěchem ve volbách 2017 normálně počítají. Překvapilo mě, kolik lidí zaznamenalo na síti naši "Pirátskou baladu o úřadech". Písničku, kterou na začátku zpívám, si vyžadovali people zahrát na každé mé zastávce." Komentoval svůj nabitý den ve Zlínském kraji Ivan Bartoš na sociálních sítích.
 
 Bartoš v rychlém sledu navázal na páteční start své středočeské koncertní kampaně s umělci nazvané Pirátská Free Ride. V neděli večer (6. 8.) pak vystoupí v debatě před koncertem kapely Sto zvířat konané v rámci tradičního sochařského sympózia v Lomečku Starý Klíčov u Domažlic, kam se chystá například i Vladimír Franc.
 

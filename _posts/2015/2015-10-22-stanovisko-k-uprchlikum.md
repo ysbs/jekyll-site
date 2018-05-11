@@ -75,7 +75,7 @@ Přesto by měla být Česká republika připravena na zvýšení počtu migrant
 
 ### Umožnit snadné přesídlení preferovaným skupinám
 
-* Česká republika by podle Pirátů měla stanovit preferované vlastnosti migrantů, které by výslovně uvítala, a kteří by českou společnost jednoznačně obohatili (např. vědci, vysoce vzdělaní lidé, nositelé kultury, politicky pronásledované osoby). Tato kritéria členských států by byla zohledněna v evropském azylovém řízení.
+* Česká republika by podle Pirátů měla stanovit preferované vlastnosti migrantů, které by výslovně uvítala, a kteří by českou společnost jednoznačně obohatili (např. vědci, vysoce vzdělaní people, nositelé kultury, politicky pronásledované osoby). Tato kritéria členských států by byla zohledněna v evropském azylovém řízení.
 
 ### Dodržování pravidel Schengenského prostoru a brzké zrušení kontrol
 

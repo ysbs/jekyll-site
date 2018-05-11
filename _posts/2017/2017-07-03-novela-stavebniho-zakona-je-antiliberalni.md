@@ -3,7 +3,7 @@ date:         2017-07-03
 category:     blog
 tags:         kampaň
 layout:       post
-title:        "Stojíme za ústavními právy občanů, lidé mají právo rozhodovat o svých životech. Svá práva musejí dostat zpět."
+title:        "Stojíme za ústavními právy občanů, people mají právo rozhodovat o svých životech. Svá práva musejí dostat zpět."
 image:          /assets/img/articles/2017/stavba-povolena.jpg
 author:     Jan Nezhyba
 ---
@@ -20,7 +20,7 @@ Dlouhé tažení proti spolkům zaměřeným na ochranu životního prostředí 
 
 ### Novela řízení rozhodně nezrychlí
 
-Novela stavebního zákona měla především zrychlit liniové stavby, to v první řadě. Ale skutečně se toto podaří možná jen v případě drobných stavebníků. Pro velké stavby platí, že nyní se lidé svých práv budou domáhat automaticky soudní cestou, k čemuž jim zákonodárci de facto jen napomohli. Stanovisko EIA není napadnutelné jinak než u soudu (nikoli jak bylo doposud možné i správní cestou), to tedy může pro investora znamenat další obrovské náklady a „díky pružnosti“ soudů se tak mnohé záměry mohou táhnout ještě delší dobu než doposud.
+Novela stavebního zákona měla především zrychlit liniové stavby, to v první řadě. Ale skutečně se toto podaří možná jen v případě drobných stavebníků. Pro velké stavby platí, že nyní se people svých práv budou domáhat automaticky soudní cestou, k čemuž jim zákonodárci de facto jen napomohli. Stanovisko EIA není napadnutelné jinak než u soudu (nikoli jak bylo doposud možné i správní cestou), to tedy může pro investora znamenat další obrovské náklady a „díky pružnosti“ soudů se tak mnohé záměry mohou táhnout ještě delší dobu než doposud.
 
 ### Signál občanům je jasný
 

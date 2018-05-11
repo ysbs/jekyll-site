@@ -15,4 +15,4 @@ Vyjádření soudu:
 
 Lídr Pirátů Ivan Bartoš k celé věci říká: 
 
-> „Děkujeme nejaktivnější dobrovolnici pirátské kampaně paní Nečasové za podporu a pomoc. Jsem rád, že překročila svůj stín a podpořila liberální protikorupční stranu na cestě do Sněmovny, její žaloba nám pomohla v kampani, přestože účelem autobusu nebylo žaloby vyprovokovat. Soudu děkuji za potvrzení, že svoboda slova a možnost dělat si legraci z politiků formou karikatury v naší zemi platí. Náš autobus upozorňuje na to, že v české politice se stále drží lidé s problematickou minulostí a na to, že vymahatelnost práva se v naší zemi musí zlepšit.“
+> „Děkujeme nejaktivnější dobrovolnici pirátské kampaně paní Nečasové za podporu a pomoc. Jsem rád, že překročila svůj stín a podpořila liberální protikorupční stranu na cestě do Sněmovny, její žaloba nám pomohla v kampani, přestože účelem autobusu nebylo žaloby vyprovokovat. Soudu děkuji za potvrzení, že svoboda slova a možnost dělat si legraci z politiků formou karikatury v naší zemi platí. Náš autobus upozorňuje na to, že v české politice se stále drží people s problematickou minulostí a na to, že vymahatelnost práva se v naší zemi musí zlepšit.“

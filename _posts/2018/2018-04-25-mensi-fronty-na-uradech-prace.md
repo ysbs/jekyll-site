@@ -15,7 +15,7 @@ Praha, 25. dubna 2018 – Ve čtvrtek 26. dubna se sejde sněmovní Výbor pro s
  
 > Vstřícnější prostředí a vyšší dostupnost informací pro klienty úřadů jsou hlavními cíli Pirátů. „Zároveň je nezbytné, aby i zaměstnanci úřadů, od nichž se zvýšení kvality servisu požaduje, mohli pracovat nejenom v důstojném prostředí, ale i s adekvátní podporou včetně patřičného finančního ohodnocení,“ zdůrazňuje Richterová.
  
-> Kromě zmíněných aktivit se Piráti zaměřují na vyhodnocení dopadů nově přijaté legislativy. Například na finanční dopad kvartálního vykazování služeb: „Soudě dle minutové náročnosti jednotlivých úkonů se zdá, že se jen zvýšila doba, kterou lidé stráví u přepážek, a kterou pracovnicím trvá zadat dokumenty do systému. Samotná výše výplat příspěvku na bydlení a přídavků na děti se patrně nijak zásadně nezměnila,“ uzavírá Richterová.
+> Kromě zmíněných aktivit se Piráti zaměřují na vyhodnocení dopadů nově přijaté legislativy. Například na finanční dopad kvartálního vykazování služeb: „Soudě dle minutové náročnosti jednotlivých úkonů se zdá, že se jen zvýšila doba, kterou people stráví u přepážek, a kterou pracovnicím trvá zadat dokumenty do systému. Samotná výše výplat příspěvku na bydlení a přídavků na děti se patrně nijak zásadně nezměnila,“ uzavírá Richterová.
 
 
 [Pozvánka na veřejné jednání Výboru pro sociální politiku](http://www.psp.cz/sqw/text/text2.sqw?idd=144812)

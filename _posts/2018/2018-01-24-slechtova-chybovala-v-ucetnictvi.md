@@ -16,7 +16,7 @@ Ministerstvo v přehledu třeba uvádělo navýšení finančních prostředků 
 
 Kromě chyb v účetnictví mělo ministerstvo také chyby v závěrečném účtu, podle něhož se hodnotí plnění státního rozpočtu. Tam zjistili chyby přesahující 7 miliard korun. Hlavní problém byly s chybným tříděním dotací poskytovaných příjemcům v ČR.
 
-> „Každý, kdo někdy pracoval na projektu dotovaném z evropských nebo jiných dotací ví, jak jsou kontroly účetnictví a výkaznictví z ministerstva přísné. Stejně přísný metr by měl platit i na ministerstvo samotné. Mělo by jít příkladem. Lidé se pak cítí státem šikanováni a berou to tak, že co platí pro ně, úřady dodržovat nemusí,“ doplňuje Radek Holomčík, který se za Piráty věnuje otázkám podpory rozvoje venkova. 
+> „Každý, kdo někdy pracoval na projektu dotovaném z evropských nebo jiných dotací ví, jak jsou kontroly účetnictví a výkaznictví z ministerstva přísné. Stejně přísný metr by měl platit i na ministerstvo samotné. Mělo by jít příkladem. People se pak cítí státem šikanováni a berou to tak, že co platí pro ně, úřady dodržovat nemusí,“ doplňuje Radek Holomčík, který se za Piráty věnuje otázkám podpory rozvoje venkova. 
 
 Bohužel to potvrzuje také poslední oblast kontroly NKÚ. A to jak se ministerstvo vypořádalo se zjištěními z poslední kontroly. Ministerstvo svou šéfku Šlechtovou informovalo, že všechna opatření proběhla, jak měla. Ve skutečnosti provedli podle NKÚ ale jen necelou polovinu.
 

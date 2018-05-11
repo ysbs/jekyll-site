@@ -12,7 +12,7 @@ Praha, 27. března 2018 – Hrozí prohlubování sociální nouze lidí v ohro�
 
 Dostupnost bydlení vnímá Pirátská strana jako jeden z nejdůležitějších společenských problémů, i proto se tématu z pozice garantky věnuje Olga Richterová, místopředsedkyně sněmovního Výboru pro sociální politiku. 
 
-> „Výstavba státních ubytoven se neukazuje jako dlouhodobě efektivní. Jejich výstavba generuje další koncentrovaná místa chudoby a lidé v nich nezískávají kompetence k bydlení. A navíc jsou ve srovnání s byty provozně velice drahé, například kvůli vrátnicím,“ uvedla po semináři pořádaném Platformou pro sociální bydlení Richterová.
+> „Výstavba státních ubytoven se neukazuje jako dlouhodobě efektivní. Jejich výstavba generuje další koncentrovaná místa chudoby a people v nich nezískávají kompetence k bydlení. A navíc jsou ve srovnání s byty provozně velice drahé, například kvůli vrátnicím,“ uvedla po semináři pořádaném Platformou pro sociální bydlení Richterová.
 
 Na představitele MMR poslankyně Richterová apeluje, aby zajistili celospolečenskou diskuzi o bydlení a pomohli dosáhnout dohody se všemi dotčenými skupinami, jako jsou starostové obcí a zástupci místních samospráv. Podle Richterové je nutné najít shodu s představiteli Svazu měst a obcí a se Sdružením místních samospráv, kterých se problematika týká nejvíc.
 
@@ -20,4 +20,4 @@ Na představitele MMR poslankyně Richterová apeluje, aby zajistili celospoleč
 
 Další setkání tentokrát svolané MMR se uskuteční již 5. dubna a za Piráty se jej bude účastnit Ivan Bartoš, předseda strany a předseda Výboru pro veřejnou správu a regionální rozvoj. Ten se problematikou vyloučených lokalit zabývá již několik let a upozorňuje především na lidský aspekt a obavy lidí ze ztráty bydliště: 
 
-> „S jistotou fungujícího státu se žije úplně jinak než ve strachu z výpovědi nebo odebrání dětí kvůli bydlení na ubytovně. Lidé se nesmí bát ztráty bydlení. Obecní a družstevní byty i sociální bydlení pro nejpotřebnější uspoří celému systému, zejména na druhotných nákladech, ale nejen těch. Jsem rád, že se diskuze nad tak důležitým celospolečenským tématem vede věcně a odborníkům se dostává náležité pozornosti,“ dodává Bartoš.
+> „S jistotou fungujícího státu se žije úplně jinak než ve strachu z výpovědi nebo odebrání dětí kvůli bydlení na ubytovně. People se nesmí bát ztráty bydlení. Obecní a družstevní byty i sociální bydlení pro nejpotřebnější uspoří celému systému, zejména na druhotných nákladech, ale nejen těch. Jsem rád, že se diskuze nad tak důležitým celospolečenským tématem vede věcně a odborníkům se dostává náležité pozornosti,“ dodává Bartoš.

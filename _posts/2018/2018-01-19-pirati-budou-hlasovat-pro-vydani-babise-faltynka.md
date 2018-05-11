@@ -3,7 +3,7 @@ date:         2018-01-19
 category:     blog
 tags:         kauzy
 layout:       post
-title:        "Piráti: Všichni lidé jsou si před zákonem rovni. Budeme hlasovat pro vydání Babiše i Faltýnka"
+title:        "Piráti: Všichni people jsou si před zákonem rovni. Budeme hlasovat pro vydání Babiše i Faltýnka"
 image:        /assets/img/articles/2018/michalek-snemovna3.jpg
 author:       Karolína Sadílková
 ---

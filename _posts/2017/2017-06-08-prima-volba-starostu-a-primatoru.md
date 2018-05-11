@@ -10,7 +10,7 @@ author:     Jakub Michálek
 
 Jakub Michálek na legislativním výboru ZHMP představil [návrh klubu Pirátů na přímou volbu starostů a primátorů](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/prima-volba-starostu-a-primatoru.pdf) včetně primátora hl. m. Prahy. Podle Pirátů by se měl pražský primátor volit v přímé volbě, nemělo by ho volit zastupitelstvo jako dosud. Nový systém by přivedl do politiky více čerstvých osobností. Praha je oprávněna předkládat návrhy zákonů Poslanecké sněmovně a její stanovisko bude pro případné zavedení přímé volby a odvolatelnosti politiků v celém státě klíčové. Výbor doporučil, aby teď Piráti projednali návrh přímé volby s předsedy klubů.
 
-> „V minulém volebním období jsme v Praze zaznamenali 3 různé podoby Rady hlavního města Prahy a v tomto volebním období klinickou smrt pražské koalice. Pod primátorkou Krnáčovou se křeslo kymácelo asi půl roku a fungování Rady se prakticky zastavilo. Není správné, aby občané byli rukojmí špatně nastaveného systému. Každý zastupitel dnes musel dostat politickou trafiku s příjmem 100 tisíc měsíčně, aby se primátorka Krnáčová udržela ve funkci. Piráti důsledně prosazují požadavek většinové populace, aby si lidé mohli svého starostu zvolit a nešlo jen o výsledek politikaření. Svého předsedu si dnes volí každý spolek, tak proč by si svého primátora nemohli zvolit Pražané?“ říká předseda klubu Pirátů Jakub Michálek.
+> „V minulém volebním období jsme v Praze zaznamenali 3 různé podoby Rady hlavního města Prahy a v tomto volebním období klinickou smrt pražské koalice. Pod primátorkou Krnáčovou se křeslo kymácelo asi půl roku a fungování Rady se prakticky zastavilo. Není správné, aby občané byli rukojmí špatně nastaveného systému. Každý zastupitel dnes musel dostat politickou trafiku s příjmem 100 tisíc měsíčně, aby se primátorka Krnáčová udržela ve funkci. Piráti důsledně prosazují požadavek většinové populace, aby si people mohli svého starostu zvolit a nešlo jen o výsledek politikaření. Svého předsedu si dnes volí každý spolek, tak proč by si svého primátora nemohli zvolit Pražané?“ říká předseda klubu Pirátů Jakub Michálek.
 
 Příkladem úspěšného systému přímé volby je například referendum, kterým byla v roce 1998 zavedena pozice starosty Londýna a bylo zřízeno londýnské zastupitelstvo. Pro přímou volbu starosty se tehdy vyslovilo 72 % občanů. V přímé volbě starosty největšího britského města uspěl např. starosta Boris Johnson. Přímou volbu starosty mají také metropole jako New York nebo Chicago a myslíme si, že by Praze také slušela. Ve všech okolních státech je přímá volba starostů již zavedena.
 
@@ -26,7 +26,7 @@ Příkladem úspěšného systému přímé volby je například referendum, kte
 
 ### Výhody přímé volby:
 
-* Přímá volba zejména zavádí jednoznačnou zodpovědnost konkrétní osoby, kterou si lidé zvolí, za správu obce.
+* Přímá volba zejména zavádí jednoznačnou zodpovědnost konkrétní osoby, kterou si people zvolí, za správu obce.
 * Občané neznají svoje zastupitele, zatímco primátora zná téměř každý.
 * Systém by umožnil, aby zastupitelstvo efektivněji kontrolovalo primátora (např. včetně vyšetřovací komise).
 * Naopak primátor by nebyl vystaven takovému tlaku partikulárních zájmů v zastupitelstvu a měl by větší autoritu a vážnost.

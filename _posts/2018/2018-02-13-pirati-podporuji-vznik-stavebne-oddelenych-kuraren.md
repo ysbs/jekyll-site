@@ -16,6 +16,6 @@ Schválení protikuřáckého zákona v roce 2016 významně zasáhlo do práv m
 
 Poslanecký klub Pirátů se shodl na tom, aby restaurace mohly zavést stavebně oddělené kuřárny bez obsluhy. Tím by se řešil častý problém se stížnostmi občanů na rušení nočního klidu. 
 
-> „Uvědomujeme si účel zákona, který má primárně chránit zdraví občanů. Jeho současná formulace ale přenáší zdravotní rizika a další negativní dopady na nezúčastněné osoby. Nejen z pražských ulic známe desítky případů, kdy jsou lidé v přilehlých bytových jednotkách rušeni hlukem v nočních hodinách. Kvitujeme, že novela má podporu poslanců bez ohledu na stranickou příslušnost,“ vyjádřil názor poslaneckého klubu Pirátů Mikuláš Ferjenčík.
+> „Uvědomujeme si účel zákona, který má primárně chránit zdraví občanů. Jeho současná formulace ale přenáší zdravotní rizika a další negativní dopady na nezúčastněné osoby. Nejen z pražských ulic známe desítky případů, kdy jsou people v přilehlých bytových jednotkách rušeni hlukem v nočních hodinách. Kvitujeme, že novela má podporu poslanců bez ohledu na stranickou příslušnost,“ vyjádřil názor poslaneckého klubu Pirátů Mikuláš Ferjenčík.
 
 Piráti dlouhodobě prosazují, aby byl v případě protikuřáckého zákona nalezen společenský konsensus. Novelu dnes předložila skupina poslanců napříč stranami, hlavním iniciátorem novely je poslanec ODS Marek Benda. 

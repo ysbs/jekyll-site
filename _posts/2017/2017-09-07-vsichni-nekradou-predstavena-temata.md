@@ -25,7 +25,7 @@ Cílem politiky Pirátů je svobodná a digitálně propojená společnost. Prot
 Jsme jediná strana se skutečně rovnou daní. Jedna sazba bude platit pro všechny. Svůj plat si spočítáte z hlavy. Zaměstnanec s průměrnou mzdou ušetří 7,5 tisíce ročně. 
 
 2. **Na úřad může každý z domova – co jiní nezvládli za čtyři roky, naprogramujeme za týden**
-Nabízíme svobodu, které se můžete skutečně dotknout. Lidé si už nebudou muset brát volno kvůli nové občance, řidičáku nebo změně trvalého bydliště. Vše bude díky Pirátům na jednom místě a online.
+Nabízíme svobodu, které se můžete skutečně dotknout. People si už nebudou muset brát volno kvůli nové občance, řidičáku nebo změně trvalého bydliště. Vše bude díky Pirátům na jednom místě a online.
 
 3. **Podpoříme malé podnikatele i tím, že zjednodušíme byrokracii**
 Už nyní funguje web urad.pirati.cz, kde si můžete založit firmu za jediný den. Propojíme databáze a registry, aby nedocházelo ke zbytečným duplikacím v systému.
