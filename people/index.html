@@ -111,6 +111,11 @@ img: brand/logo.svg
                                             {% include people/list-2col.html param=team %}
                                         </div>
                                     </div>
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Others</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'other'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
                                 </li>
                             </ul>
                         </div>
