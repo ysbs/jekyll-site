@@ -111,16 +111,6 @@ img: brand/logo.svg
                                             {% include people/list-2col.html param=team %}
                                         </div>
                                     </div>
-                                    <div class="c-simple-accordion-content-block">
-                                        <h3>Královéhradecký kraj</h3>
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'hradec'" %}
-                                        {% include people/list-2col.html param=team %}
-                                    </div>
-                                    <div class="c-simple-accordion-content-block">
-                                        <h3>Jihomoravský kraj</h3>
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'jmk'" %}
-                                        {% include people/list-2col.html param=team %}
-                                    </div>
                                 </li>
                             </ul>
                         </div>
