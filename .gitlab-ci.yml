@@ -13,10 +13,10 @@ build:
   - npm install
   - ./node_modules/bower/bin/bower install
   - ./node_modules/gulp/bin/gulp.js
-  - printf "baseurl:" | tee branch.yml
-  - printf " /${CI_COMMIT_REF_SLUG}" | tee branch.yml
+  - echo -n "baseurl:" | tee branch.yml
+  - echo " /${CI_COMMIT_REF_SLUG}" >> branch.yml
   - cat branch.yml
-  - bundle exec jekyll build -d built --config _config.yml, branch.yml
+  - bundle exec jekyll build -d built --config _config.yml --config branch.yml
   cache:
     key: ${CI_COMMIT_REF_SLUG}
     paths:
