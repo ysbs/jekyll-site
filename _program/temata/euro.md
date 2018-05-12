@@ -49,7 +49,7 @@ V současnosti drží ČNB devizové rezervy zhruba ve výši 60 % HDP, z velké
 
 ## FAQ
 
-### Nebude se mezitím v EU rozhodovat o nás bez nás?
+### Nebude se mezitím v EU rozhodovat About Us bez nás?
 
 Bude. Avšak pokud chtějí země tvrdého jádra eurozónu udržet, budou se muset v rámci politického procesu nějakým způsobem podílet na splácení dluhů jižních zemí. ČR má poloviční HDP na obyvatele než Itálie nebo Německo a ochota českých občanů podílet se na tomto procesu by byla nízká, a byli bychom spíše brzdou. Proto by bylo výhodnější do eurozóny vstoupit, až se situace více stabilizuje.
 

@@ -51,7 +51,7 @@ Podporujeme zřízení nezávislé Rady pro justici, ve které budou zastoupeni 
 
 **Vy chcete lidové soudy, aby soudce soudili laici?**
 
-Absolutně NE. To je dezinformace, kterou o nás v placené inzerci šíří TOP 09. Kárná řízení budou úplně stejně jako dnes vést kárné senáty, ve kterých budou jak soudci, tak jiní právníci, kterým se říká přísedící (např. renomovaní právní profesoři, státní zástupci a jiné osoby, které splňují obdobné předpoklady jako soudce). Navrhujeme pouze drobně upravit složení kárných senátů, které rozhodují o kárných proviněních soudců. Dnes je poměr soudců a přísedících z jiných právních povolání v kárných senátech 3:3. My navrhujeme např. poměr 2:3, aby měla justice silnější zpětnou vazbu z vnějšku a nezapouzdřila se do sebe.
+Absolutně NE. To je dezinformace, kterou About Us v placené inzerci šíří TOP 09. Kárná řízení budou úplně stejně jako dnes vést kárné senáty, ve kterých budou jak soudci, tak jiní právníci, kterým se říká přísedící (např. renomovaní právní profesoři, státní zástupci a jiné osoby, které splňují obdobné předpoklady jako soudce). Navrhujeme pouze drobně upravit složení kárných senátů, které rozhodují o kárných proviněních soudců. Dnes je poměr soudců a přísedících z jiných právních povolání v kárných senátech 3:3. My navrhujeme např. poměr 2:3, aby měla justice silnější zpětnou vazbu z vnějšku a nezapouzdřila se do sebe.
  
 **Nezahltíte hodnocením soudy a kárné senáty?**
 

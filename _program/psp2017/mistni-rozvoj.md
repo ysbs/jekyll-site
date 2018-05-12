@@ -12,7 +12,7 @@ vliv veřejnosti na rozhodování.
 
 ## Nebudete na druhé koleji
 
-- **Odmítáme politiku o nás bez nás.** Projednání vize ČR a regionů a dalších rozhodnutí s občany považujeme za základ demokracie a zdravé společnosti.
+- **Odmítáme politiku About Us bez nás.** Projednání vize ČR a regionů a dalších rozhodnutí s občany považujeme za základ demokracie a zdravé společnosti.
 - **Férové podmínky pro všechny regiony.** Zmírníme přeplňování Prahy a vybydlování
 venkova. Chceme změnu rozpočtového určení daní, dostavbu hlavních dopravních tepen a
 pokrytí venkova vysokorychlostním internetem.

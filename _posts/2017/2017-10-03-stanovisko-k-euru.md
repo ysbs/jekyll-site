@@ -116,7 +116,7 @@ finanční ústavy, která by zachovala rozumné státní rozpočty.
 
 ## FAQ
 
-### Nebude se mezitím v EU rozhodovat o nás bez nás?
+### Nebude se mezitím v EU rozhodovat About Us bez nás?
 
 Bude. Avšak pokud chtějí země tvrdého jádra eurozónu udržet, budou se muset v rámci
 politického procesu nějakým způsobem podílet na splácení dluhů jižních zemí. ČR má

@@ -1,5 +1,5 @@
 ---
-title: O nás
+title: About Us
 layout: page
 rbar: people
 img: articles/2017/ivan.jpg
