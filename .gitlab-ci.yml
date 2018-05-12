@@ -16,7 +16,7 @@ build:
   - echo -n "baseurl:" | tee branch.yml
   - echo " /${CI_COMMIT_REF_SLUG}" >> branch.yml
   - cat branch.yml
-  - bundle exec jekyll build -d built --config _config.yml --config branch.yml
+  - bundle exec jekyll build -d built --config _config.yml,branch.yml
   cache:
     key: ${CI_COMMIT_REF_SLUG}
     paths:
