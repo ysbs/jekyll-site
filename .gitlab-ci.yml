@@ -30,16 +30,8 @@ test:
   - echo "Link checker"
   - ls
 
-deploy_prod:
-  stage: deploy
-  script:
-  - rsync -av --delete ./built/ /mnt/nfs/site-content/jekyll/
-  only:
-  - master 
-
 deploy_staging:
   stage: deploy
   script:
   - echo "Deploy Staging"
-  only:
-  - staging
+  - rsync -av --delete ./built/ /mnt/nfs/site-content/jekyll/${CI_COMMIT_REF_SLUG}/
