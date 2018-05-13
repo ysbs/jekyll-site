@@ -4,7 +4,7 @@ name:     Mark Chapman      # Short Name
 fullname: Mark Chapman      # Full name including any titles
 category:               # Category: gov, nec, it, press
 - nec
-img: people/adam-zabransky.jpg   # 165 x 220
+img: people/mark-chapman.jpg   # 165 x 220
 description: Head Spokesperson   # Short desc. Max 160 chars
 mail:
 - m.chapman@pirateparty.org.uk
