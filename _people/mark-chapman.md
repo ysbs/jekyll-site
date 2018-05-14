@@ -11,8 +11,8 @@ mail:
 profiles:
   gitlab:        https://gitlab.pirateparty.org.uk/?
   facebook:    https://www.facebook.com/user.name
-  twitter:        https://twitter.com/twitter.handle
+  twitter:        https://twitter.com/Pirate_Lennon
 ordnec: 2 #ordgov and ordnec used to sort by importance
 ---
 
-As head spokesperson for the party Mark represents us in the media.
+Mark joined the Pirate Party in 2014 and is the Party Deputy Leader and Principle Spokesperson, responsible for representing the party in the media.
