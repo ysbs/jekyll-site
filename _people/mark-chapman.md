@@ -4,6 +4,7 @@ name:     Mark Chapman      # Short Name
 fullname: Mark Chapman      # Full name including any titles
 category:               # Category: gov, nec, it, press
 - nec
+- mo-contact
 img: people/mark-chapman.jpg   # 165 x 220
 description: Head Spokesperson   # Short desc. Max 160 chars
 mail:
