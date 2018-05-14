@@ -15,4 +15,4 @@ That's why we're proud to be standing for election as Pirates. Are you a Pirate 
 * [Regiony]({{ '/regiony/' | relative_url }})
 * [Program]({{ '/program/' | relative_url}})
 * [Připoj se]({{ '/pripoj-se/' | relative_url}})
-* [Stanovy Pirátské strany]({{ 'o-nas/stanovy.html' | relative_url }})
+* [Stanovy Pirátské strany]({{ 'about-us/stanovy.html' | relative_url }})
