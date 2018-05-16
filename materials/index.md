@@ -1,6 +1,6 @@
 ---
-title: Materials
-layout: page
+title: "Materials"
+layout: post
 rbar: people, tw
 ---
 
