@@ -1,16 +1,17 @@
 ---
 date:         2018-01-01
 category:     blog
-tags:         - Internet Health
-                  - Mozilla
-                  - PR
-                  - IOT
-                  - internet of things
-                  - fake news
-                  - fake news
+tags:         
+    - Internet Health
+    - Mozilla
+    - PR
+    - IOT
+    - internet of things
+    - fake news
+    - fake news
 layout:       post
 title:        "The Internet: Time for a check-up"
-image:        https://cdn-images-1.medium.com/max/800/0*SxdnMublM2Trhy6l.
+image:        /assets/img/articles/2018/2018-01-01-leaders-update.jpg
 author:       George Sykes
 ---
 
