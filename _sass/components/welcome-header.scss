@@ -4,23 +4,24 @@
   background: url('../img/header/banner-ppuk.png') no-repeat;
   background-size: auto;
   background-position: center 70%;
-
+  border: 1px solid black
+  ;
   div {
     height: 100%;
   }
 
   @include breakpoint(medium down) {
     background: url('../img/header/banner-ppuk.png') no-repeat;
-    height: 200px;
-    background-size: auto;
+    height: 210px;
+    background-size: 60%;
     background-position: center 70%;
     overflow: hidden;
   }
 
   @include breakpoint(640px down) {
     background: url('../img/header/banner-ppuk.png') no-repeat;
-    height: 150px;
-    background-size: auto;
+    height: 175px;
+    background-size: 50%;
     background-position: 27% 85%;
     overflow: hidden;
   }
