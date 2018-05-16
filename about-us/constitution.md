@@ -1,17 +1,21 @@
 ---
-title: Stanovy České pirátské strany
+title: Pirate Party UK Constitution
 layout: page
 rbar: twitter, fb, people
-img: miscellaneous/acta-cover.jpg
-description: Stanovy České pirátské strany jsou ústřední dokument, který údává základní politické hodnoty a organizační strukturu strany. Kladou velký důraz na demokracii a svobodu slova.
-keywords: stanovy, Pirátské stanovy, Stanovy České pirátské strany, Pirátská strana, Piráti, politické cíle
+description: Formal Constitution Document of the Pirate Party UK
+keywords: Pirate Party, PPUK, Constitution
 ---
 
-## Základní ustanovení
+## Constitution of the Pirate Party UK
 
-### Čl. 1 Úvodní ustanovení
+### Introductory Terms
 
-(1) Název politické strany je Pirate Party UK.
+(1) The name of the Party is Pirate Party UK.
+
+# Below here needs to change to the actual... #
+----------------
+----------------
+
 
 (2) Zkratka je Piráti.
 
