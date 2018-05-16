@@ -73,23 +73,15 @@
                     <a href="{{ '/people/' | relative_url }}">Our People</a>
                   </li>
                   <li{% if page.url contains 'regiony'%} class="is-active"{% endif %}>
-                    <a href="{{ '/regiony/' | relative_url }}">Regiony</a>
-                  </li>
-                  <li{% if page.url contains 'snemovna'%} class="is-active"{% endif %}>
-                    <a href="{{ '/snemovna/' | relative_url }}">Sněmovna</a>
+                    <a href="{{ '/regiony/' | relative_url }}">Local Branches</a>
                   </li>
                 </ul>
               </li>
-              {% if page.url == '/' %}
-              <li {% if page.url contains 'snemovna' %} class="is-active"{% endif %}>
-                <a href="{{'/snemovna/' | relative_url }}">Sněmovna</a>
-              </li>
-              {% endif %}
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
-                <a href="{{ '/program/' | relative_url }}">Program</a>
+                <a href="{{ '/program/' | relative_url }}">What we Believe</a>
               </li>
               <li{% if page.url contains 'pripoj-se' %} class="is-active"{% endif %}>
-                <a href="{{ '/pripoj-se/' | relative_url }}">Připoj se</a>
+                <a href="{{ '/pripoj-se/' | relative_url }}">Join Us</a>
               </li>
               <li{% if page.url contains 'otevrenost' or page.url contains 'ke-stazeni' %} class="is-active"{% endif %}>
                 <a href="{{ '/otevrenost/' | relative_url }}">Zveřejňujeme</a>
@@ -104,7 +96,7 @@
                 </ul>
               </li>
               <li{% if page.url contains 'kontakt' %} class="is-active"{% endif %}>
-                <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>
+                <a href="{{ '/kontakt/' | relative_url }}">Get in touch</a>
               </li>
             </ul>
           </div>
