@@ -20,7 +20,7 @@
   @include breakpoint(640px down) {
     background: url('../img/header/banner-ppuk.png') no-repeat;
     height: 350px;
-//    background-size: 100%;
+    background-size: 100%;
     background-position: 27% 85%;
   }
 }
