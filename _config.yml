@@ -7,7 +7,7 @@
 
 # Site settings
 title: Pirate Party UK
-email: to@pirati.cz
+email: webteam@pirateparty.org.uk
 description: Website for the UK Pirate Party, a centrist party focusing on Digital Rights and Freedom.
 keywords: Pirate, Pirate Party, Party, PPUK, PP, United Kingdom, Politics, Digital Rights, Digital Freedom.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -93,7 +93,7 @@ title-page:
     alt: snemovna
     url: snemovna
   left-top:
-    text: Regiony
+    text: Branches
     url: regiony
     icon: fa fa-map-signs
   right-top:
@@ -101,11 +101,11 @@ title-page:
     url: people
     icon: fa fa-users
   left-bottom:
-    text: Darujte
+    text: Donate
     url: https://dary.pirati.cz
     icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
   right-bottom:
-    text: Program<br> Černé na bílém
+    text: What we believe<br> - Our Policies
     url: program
     icon: fa fa-newspaper-o u-rotate-345
 
