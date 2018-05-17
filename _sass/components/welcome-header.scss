@@ -3,7 +3,7 @@
   position: relative;
   background: url('../img/header/banner-ppuk.png') no-repeat;
   background-size: auto;
-  background-position: center 70%;
+  background-position: center;
   overflow: hidden
   ;
   div {
@@ -12,15 +12,15 @@
 
   @include breakpoint(medium down) {
     background: url('../img/header/banner-ppuk.png') no-repeat;
-    background-size: 60%;
-    background-position: center 70%;
+    background-size: auto;
+    background-position: 35%;
     overflow: hidden;
   }
 
   @include breakpoint(640px down) {
     background: url('../img/header/banner-ppuk.png') no-repeat;
-    background-size: 50%;
-    background-position: 27% 85%;
+    background-size: auto;
+    background-position: 10%;
     overflow: hidden;
   }
 }
