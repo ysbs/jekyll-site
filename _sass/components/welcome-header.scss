@@ -3,25 +3,25 @@
   position: relative;
   background: url('../img/header/banner-ppuk.png') no-repeat;
   background-size: auto;
-  background-position: center 70%;
-  overflow: hidden;
-
+  background-position: center;
+  overflow: hidden
+  ;
   div {
     height: 100%;
   }
 
   @include breakpoint(medium down) {
-    background: url('../img/header/banner-mobile-1080x2522px-scroll.jpg') no-repeat;
-    height: 1700px;
-    background-size: 100%;
-    background-position: 20% 70%;
+    background: url('../img/header/banner-ppuk.png') no-repeat;
+    background-size: auto;
+    background-position: 35%;
+    overflow: hidden;
   }
 
   @include breakpoint(640px down) {
-    background: url('../img/header/banner-mobile-432-scroll.jpg') no-repeat;
-    height: 1000px;
-    background-size: 100%;
-    background-position: 27% 85%;
+    background: url('../img/header/banner-ppuk.png') no-repeat;
+    background-size: auto;
+    background-position: 10%;
+    overflow: hidden;
   }
 }
 

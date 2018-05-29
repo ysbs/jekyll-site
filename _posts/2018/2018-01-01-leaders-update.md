@@ -5,7 +5,7 @@ tags:
   - Leader
 layout:       post
 title:        "Leader's Update: New Leader, new Medium"
-image:        /assets/img/articles/2018/michalek-4.jpg
+image:        /assets/img/articles/2018/2018-01-01-leaders-update.jpg
 author:       Harley Faggetter
 ---
 
