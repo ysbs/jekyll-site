@@ -37,4 +37,4 @@ deploy_staging:
   stage: deploy
   script:
   - echo "Deploy Staging"
-  - rsync -av --delete ./built/ /mnt/nfs/site-content/jekyll/${CI_PROJECT_NAMESPACE}/${CI_COMMIT_REF_SLUG}/
+  - rsync -av --delete ./built/ /mnt/nfs/site-content/jekyll/${CI_COMMIT_REF_SLUG}/
