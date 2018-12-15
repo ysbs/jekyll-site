@@ -4,15 +4,16 @@ name:     Mark Chapman      # Short Name
 fullname: Mark Chapman      # Full name including any titles
 category:               # Category: gov, nec, it, press
 - nec
-img: people/adam-zabransky.jpg   # 165 x 220
+- mo-contact
+img: people/mark-chapman.jpg   # 165 x 220
 description: Head Spokesperson   # Short desc. Max 160 chars
 mail:
 - m.chapman@pirateparty.org.uk
 profiles:
   gitlab:        https://gitlab.pirateparty.org.uk/?
   facebook:    https://www.facebook.com/user.name
-  twitter:        https://twitter.com/twitter.handle
+  twitter:        https://twitter.com/Pirate_Lennon
 ordnec: 2 #ordgov and ordnec used to sort by importance
 ---
 
-As head spokesperson for the party Mark represents us in the media.
+Mark joined the Pirate Party in 2014 and is the Party Deputy Leader and Principle Spokesperson, responsible for representing the party in the media.

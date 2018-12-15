@@ -1,9 +1,9 @@
-- link: wiki.pirati.cz
-  url: https://wiki.pirati.cz
-  icon: fa fa-home
 - link: Discord
   url: http://discord.pirateparty.org.uk
   icon: fa fa-comments
-- link: Obchod
+- link: Pirate Shop
   url: https://www.piratskyobchod.cz
   icon: fa fa-shopping-basket
+- link: legacy website (members)
+  url: https://legacy.pirateparty.org.uk
+  icon: fa fa-home

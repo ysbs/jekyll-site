@@ -12,8 +12,8 @@ mail:
 profiles:
   github:       https://github.com/?
   facebook:    https://www.facebook.com/?
-  twitter:        https://twitter.com/?
+  twitter:        https://twitter.com/Topperfalkon
 ordnec: 1 #ordgov and ordnec used to sort by importance
 ---
 
-SOMETHING ABOUT HARLEY HERE
+**Harley** joined the Pirate Party in X and has been a key member ever since, having variously been involved in the London branch, the IT team and currently taking on the role of Party Leader.
