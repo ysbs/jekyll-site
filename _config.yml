@@ -47,7 +47,7 @@ collections:
     permalink: /program/:path/
   teams:
     output: true
-    permalink: /pripoj-se/:title/
+    permalink: /teams/:title/
   elections:
     output: true
     permalink: /snemovna/:path/
