@@ -102,8 +102,8 @@ title-page:
     url: people
     icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
   right-bottom:
-    text: What we believe<br> - Our Policies
-    url: program
+    text: Our Beliefs
+    url: policy
     icon: fa fa-newspaper-o u-rotate-345
 
 emptyArray: []
