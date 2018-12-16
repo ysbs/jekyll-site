@@ -202,7 +202,7 @@ var hideOldEvents = function() {
 }
 
 /**
- * Make map of czech regions for pirati.cz/regiony
+ * Make map of czech regions for pirati.cz/branches
  * @param {collection} data
  * @param {string} url attribute to use as url
  **/

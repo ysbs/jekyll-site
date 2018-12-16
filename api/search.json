@@ -33,7 +33,7 @@
   {% for page in site.pages %}
     { "label": "{{ page.title }}", "value": "{{ page.url | relative_url }}"},
   {% endfor %}
-  {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
+  {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'branches'" %}
   {% for item in myteams %}
   {% if site.data.elections.y2017[item.uid] %}
     { "label": "{{item.name}}",

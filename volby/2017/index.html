@@ -34,7 +34,7 @@ description: Kandidátní listiny Pirátů pro volby do PS Parlamentu ČR 2017
               </div>
               <noscript>
                 <ul>
-                  {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
+                  {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'branches'" %}
                   {% for item in myteams%}
                   {% if site.data.elections.y2017[item.uid] %}
                   <li>

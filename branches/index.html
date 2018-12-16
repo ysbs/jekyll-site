@@ -34,8 +34,8 @@ layout: default
             <ul class="c-simple-accordion " data-accordion="" data-options="active: true; allowAllClosed: true">
               <li class="c-simple-accordion-item is-active" data-accordion-item="">
                 <a href="#" class="c-simple-accordion-title">Seznam krajských sdružení</a>
-                {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
-                {% include team/list-3col.html param=myteams %}
+                {% assign mybranches = site.branches %}
+                {% include team/list-3col.html param=mybranches %}
               </li>
             </ul>
           </div>

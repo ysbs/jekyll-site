@@ -15,9 +15,9 @@
 {% if thiscat == 'strana' %}
     {% assign myteams = site.teams | where_exp: "item", "item.category includes 'strana'", "item['nadřízený tým'] == 'republikové předsednictvo'" | sort:"name" %}
     {% assign heading = 'Odborné týmy' %}
-{% elsif thiscat == 'regiony' %}
-    {% assign myteams = site.teams | where_exp: "item", "item.category includes 'regiony'" | sort:"name" %}
-    {% assign heading = 'Regiony' %}
+{% elsif thiscat == 'branches' %}
+    {% assign myteams = site.teams | where_exp: "item", "item.category includes 'branches'" | sort:"name" %}
+    {% assign heading = 'branches' %}
 {% elsif thiscat == 'program' %}
     {% assign myteams = site.teams | where_exp: "item", "item.category includes 'program'" | sort:"name" %}
     {% assign heading = 'Resorty' %}

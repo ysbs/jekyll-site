@@ -42,15 +42,12 @@ collections:
   people:
     output: true
     permalink: /people/:path/
-  program:
+  policy:
     output: true
-    permalink: /program/:path/
-  teams:
+    permalink: /policy/:path/
+  branches:
     output: true
-    permalink: /teams/:title/
-  elections:
-    output: true
-    permalink: /snemovna/:path/
+    permalink: /branches/:title/
 
 defaults:   # defaults values for collection scope
   -
@@ -94,15 +91,15 @@ title-page:
     url: snemovna
   left-top:
     text: Branches
-    url: regiony
+    url: branches
     icon: fa fa-map-signs
   right-top:
     text: Our People
     url: people
     icon: fa fa-users
   left-bottom:
-    text: Donate
-    url: https://dary.pirati.cz
+    text: Join
+    url: people
     icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
   right-bottom:
     text: What we believe<br> - Our Policies

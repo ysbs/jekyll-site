@@ -90,7 +90,7 @@ Přihlášky je potřeba odeslat na **petra.dvorakova@pirati.cz, mikulas.ferjenc
 S vítězem bude uzavřena smlouva dle těchto vzorů:
 
 * [https://www.pirati.cz/ao/sablony/start](https://www.pirati.cz/ao/sablony/start)
-* [https://www.pirati.cz/regiony/praha/podminky](https://www.pirati.cz/regiony/praha/podminky)
+* [https://www.pirati.cz/branches/praha/podminky](https://www.pirati.cz/branches/praha/podminky)
 
 Podmínky výpovědi smlouvy budou takové, aby umožnily ukončení spolupráce v případě, že republikový výbor na pokračování záměru po vyčerpání stávajících prostředků další peníze při schvalování rozpočtu na další rok neuvolní.
 

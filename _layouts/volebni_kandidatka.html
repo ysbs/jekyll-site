@@ -40,7 +40,7 @@ layout: default
                                     <option value="/">
                                         Vyberte kraj ...
                                     </option>
-                                    {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
+                                    {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'branches'" %}
                                     {% for item in myteams%}
                                     {% if site.data.elections.y2017[item.uid] %}
                                     <option value="{{item.uid | prepend: 'volby/2017/' | relative_url}}">
