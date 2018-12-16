@@ -16,36 +16,6 @@
     </div>
   </div>
 </nav>
-{% elsif page.url contains 'pripoj-se' %}
-<nav class="c-top-sub-nav u-center-860-down">
-  <div class="row">
-    <div class="c-top-sub-nav-inner">
-      <div class="u-cf">
-        <div class="c-top-sub-nav-header">
-          <div class="c-top-sub-nav__heading"> Připoj se </div>
-        </div>
-        <div class="c-top-sub-nav-divider"></div>
-        <ul class="c-top-sub-nav-items">
-          <li class="c-top-sub-nav__item">
-            <a href="{{'/pripoj-se/' | relative_url }}">Dej o sobě vědět</a>
-          </li>
-<!--          <li class="c-top-sub-nav__item">
-            <a href="{{'/pripoj-se/tymy/' | relative_url }}">najdi si tým</a>
-        </li> -->
-          <li class="c-top-sub-nav__item">
-            <a href="http://objekty.jdem.cz/">Nabídni plot</a>
-          </li>
-          <li class="c-top-sub-nav__item">
-            <a href="{{'/pripoj-se/kalendar/' | relative_url }}">Kalendář akcí</a>
-          </li>
-          <li class="c-top-sub-nav__item">
-            <a href="http://pozice.jdem.cz/">Volné pozice</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</nav>
 {% elsif page.url contains 'about-us' or page.url contains 'people' or page.url contains 'branches' %}
 <nav class="c-top-sub-nav u-center-860-down">
   <div class="row">
@@ -63,7 +33,7 @@
             <a href="{{ '/branches/' | relative_url }}">Our Branches</a>
           </li>
           <li class="c-top-sub-nav__item">
-            <a href="{{ 'about-us/stanovy.html' | relative_url }}">Our Teams</a>
+            <a href="{{ '/about-us/constitution.html' | relative_url }}">Our Constitution</a>
           </li>
         </ul>
       </div>
