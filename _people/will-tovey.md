@@ -5,7 +5,7 @@ fullname: Will Tovey      # Full name including any titles
 category:               # Category: gov, nec, it, press
 - nec
 img: people/adam-zabransky.jpg   # 165 x 220
-description: Fill this in   # Short desc. Max 160 chars
+description: Party Treasurer   # Short desc. Max 160 chars
 mail:
 - w.tovey@pirateparty.org.uk
 profiles:
