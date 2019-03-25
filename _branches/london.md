@@ -1,6 +1,7 @@
 ---
 uid: London
 name: London
+category: branches
 fullname: Pirate Party UK London Branch
 cid: branchLDN
 img: teams/ceske-budejovice.jpg
