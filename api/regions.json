@@ -7,7 +7,7 @@ ownweb:
   moravskoslezsko: https://moravskoslezsky.pirati.cz
 ---
 {% comment %}
-Praha musí být první, kvůli vykreslování
+Prague must be the first one to render
 {% endcomment %}
 
 {% assign praha = site.teams | where: "uid","praha" %}

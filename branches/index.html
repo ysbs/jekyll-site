@@ -33,8 +33,8 @@ layout: default
           <div class="vspace-nb-m">
             <ul class="c-simple-accordion " data-accordion="" data-options="active: true; allowAllClosed: true">
               <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                <a href="#" class="c-simple-accordion-title">Seznam krajských sdružení</a>
-                {% assign mybranches = site.branches %}
+                <a href="#" class="c-simple-accordion-title">Branches</a>
+                {% assign mybranches = site.branches | where_exp: "item", "item.categories contains 'branches'"%}
                 {% include team/list-3col.html param=mybranches %}
               </li>
             </ul>
