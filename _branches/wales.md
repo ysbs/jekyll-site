@@ -1,6 +1,7 @@
 ---
 uid: wales
 name: Wales 
+category: branches
 fullname: Pirate Party UK Wales Branch
 cid: branchWLS
 img: teams/brno.jpg
