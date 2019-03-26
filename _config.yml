@@ -105,7 +105,7 @@ title-page:
     icon: fa fa-users
   left-bottom:
     text: Join
-    url: people
+    url: join-us
     icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
   right-bottom:
     text: Our Beliefs
