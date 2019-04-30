@@ -58,7 +58,7 @@ defaults:   # defaults values for collection scope
       rbar: "people, foto"
   -
     scope:
-      path: "_program"
+      path: "_policy"
     values:
       layout: "page"
       rbar: "program"
