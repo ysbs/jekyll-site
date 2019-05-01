@@ -93,8 +93,8 @@ tw: piratepartyuk
 title-page:
   big:
     foto: /assets/img/miscellaneous/you-can.png
-    alt: snemovna
-    url: snemovna
+    alt: policy
+    url: policy
   left-top:
     text: Branches
     url: branches
