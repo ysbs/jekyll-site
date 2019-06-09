@@ -1,4 +1,4 @@
----
+<!-- ---
 uid: sam.mills
 name:     Sam Mills      # Short Name
 fullname: Sam Mills      # Full name including any titles
@@ -16,4 +16,4 @@ profiles:
 ordgov: 2 #ordgov and ordnec used to sort by importance
 ---
 
-Along side Sam's position as a governor who oversees party operations, they are also in charge of party policy
+Along side Sam's position as a governor who oversees party operations, they are also in charge of party policy -->
