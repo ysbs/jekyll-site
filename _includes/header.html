@@ -75,6 +75,9 @@
                   <li{% if page.url contains 'branches'%} class="is-active"{% endif %}>
                     <a href="{{ '/branches/' | relative_url }}">Local Branches</a>
                   </li>
+                  <li{% if page.url contains 'constitution'%} class="is-active"{% endif %}>
+                    <a href="{{ '/about-us/constitution.html' | relative_url }}">Our constitution</a>
+                  </li>
                 </ul>
               </li>
               <li{% if page.url contains 'policy' %} class="is-active"{% endif %}>
