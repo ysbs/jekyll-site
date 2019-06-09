@@ -1,15 +1,15 @@
 # pirateparty.org.uk
 
 
-[![Build Status](https://api.travis-ci.org/pirati-web/pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/pirati.cz)
+<!-- [![Build Status](https://api.travis-ci.org/pirati-web/pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/pirati.cz) -->
 
 This project is copied from [pirati.cz](https://github.com/pirati-web/pirati.cz)
 
 ## Build locally
 
-Install on **Fedora 25+**: `dnf install cmake gcc npm ruby ruby-devel rubygem-jekyll rubygem-bundler rubygem-nokogiri libffi zlib`
+To install on **Fedora 25+**: `dnf install cmake gcc npm ruby ruby-devel rubygem-jekyll rubygem-bundler rubygem-nokogiri libffi zlib`
 
-Install on **Ubuntu 16.04 LTS** (it also works for the ubuntu subsystem in **Windows 10**):
+To install on **Ubuntu 16.04 LTS** (including Ubuntu running on Windows Subsystem for Linux on **Windows 10**):
 
 ```
 sudo apt-get install ruby2.3-dev gcc make libghc-zlib-dev libffi-dev npm
@@ -19,9 +19,9 @@ sudo npm install -g bower
 sudo npm install --global gulp-cli
 ```
 
-**Together**
+*(on all operating systems)*
 
-Go to the cloned project folder:
+Next, go to the cloned project folder:
 
 ```
 npm install                             # It installs gulp etc.
@@ -30,10 +30,11 @@ bundle install                          # It installs locally needed gems (např
 ./node_modules/gulp/bin/gulp.js         # Minifies JS 
 ```
 
-The repository can be cloned into any folder (may not be in `/var/www/`).
+The repository can be cloned into any folder (doesn't need to be in `/var/www/`).
 
-`bundle exec jekyll serve`, which compiles the page, runs and the page is still accessible through localhost: `http://127.0.0.1:4000`
+Run `bundle exec jekyll serve`, which compiles the page and runs the page. It'll be accessible on localhost: `http://127.0.0.1:4000`
 
+<!-- We probably won't have these kinds of localisations issues
 In case of dropping in the container when the scss conversion fails, check the settings `locale`. It should be set `utf-8`.
 If it is `POSIX`, install a package, for example:
 `sudo apt-get install locales`
@@ -44,9 +45,9 @@ And paste into ~/.bashrc
 export LC_ALL=cs_CZ.UTF-8
 export LANG=cs_CZ.UTF-8
 export LANGUAGE=cs_CZ.UTF-8
-```
+``` -->
 
-Eventually, we can run only: `bundle exec jekyll build`, to the folder `_site` prepare a complete web (we can open it from the browser using the keyboard shortcut `ctrl+o`).
+<!-- Eventually, we can run only: `bundle exec jekyll build`, to the folder `_site` prepare a complete web (we can open it from the browser using the keyboard shortcut `ctrl+o`). -->
 
 
 ## Structure
@@ -66,4 +67,4 @@ Some data are listed in the folder `_data`. They are in yaml or json format.
 
 **JavaScript** is in the folder `_include/js`. Libraries are defined in `bower.json` and the production set is made up of a gulp.
 
-Jekyll has very detailed [documentation](http://jekyllrb.com/docs/home/). And I also recommend the development [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)
+Jekyll has very detailed [documentation](http://jekyllrb.com/docs/home/). And we also recommend the development [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)

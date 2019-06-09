@@ -4,15 +4,15 @@ Site source codes: **https://github.com/ppuk/jekyll-site**
 
 The web is statically compiled at the time of change, so the repository is really everything.
 
-Webmasters: Ondřej Profant, Stanislav Štipl, Jakub Michálek, Vojta Pikal, Jan Loužek
+Webmasters: Noah Stride
 
-Content administrators: Alexandr Kamarýt, Pavel Králíček, Jan Loužek
+Content administrators: Harley Faggetter
 
 ## 1. Markdown and yaml
 
 You need to know the markdown ** markdown **, which is very similar to the graphic plaintext.
 Markdown can also be tested in an [online editor](http://dillinger.io/) with a preview.
-No need to worry about him. You can also insert html directly into markdown. For example, if you want to insert a more complex table or google calendar.
+You can also insert html directly into markdown. For example, if you want to insert a more complex table or google calendar.
 
 ```md
 # Title 1. levels
@@ -42,7 +42,7 @@ pomocí dvou mezer na konci řádku.
 
 ### Citation
 
-> For shorter quotations, the Czech quotation marks, or in italics, are sufficient. However, for longer quotations, it is better to emphasize.
+> To emphasise longer citations. Shorter citations can just use regular quotation marks.
 
 ```
 
@@ -58,14 +58,12 @@ key3:
   key5: val2
 ```
 
-It's best to understand [example](https://raw.githubusercontent.com/pirati-web/pirati.cz/gh-pages/_people/ondrej-profant.md).
+<!-- It's best to understand [example](https://raw.githubusercontent.com/pirati-web/pirati.cz/gh-pages/_people/ondrej-profant.md). -->
 
 ## Github
 
-This is a system for sharing versions of text documents (such as our site).
-He knows much more. It is important for you to register.
-
-The pull request will only take effect after approval. But even if you have the right to write, the changes will not appear immediately.
+Github is used as the central repository for our website.
+If you sign up to Github, you will be able to submit changes to the website for approval
 
 ## Articles
 
