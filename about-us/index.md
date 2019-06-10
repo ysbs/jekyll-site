@@ -12,5 +12,5 @@ That's why we're proud to be standing for election as Pirates. Are you a Pirate 
 
 * [Find a local Branch]({{ '/branches/' | relative_url }})
 * [Look at our Policies]({{ '/policy/' | relative_url}})
-* [Become a Pirate]({{ '/pripoj-se/' | relative_url}})
+* [Become a Pirate]({{ '/join-us/' | relative_url}})
 * [Pirate Party UK Constitution]({{ 'about-us/constitution.html' | relative_url }})
