@@ -96,7 +96,7 @@ var author_link = function(data, el) {
     $('<a>',{
         text: author.name,
         title: author.name,
-        href: 'https://www.pirati.cz' + author.url
+        href: 'https://www.pirateparty.org.uk' + author.url
     }).appendTo(el);
     if(!is_last_item) {
       el.append(', ');
@@ -129,7 +129,7 @@ var show_people = function(data, who, where) {
 var search = function(data) {
   $("#searchsub").click(function() {
     var exp = $("#search").val();
-    var url = "https://duckduckgo.com/?q=site:pirati.cz+" + exp;
+    var url = "https://duckduckgo.com/?q=site:pirateparty.org.uk+" + exp;
     window.location.href = url;
   });
   $("#search").autocomplete({
@@ -202,7 +202,7 @@ var hideOldEvents = function() {
 }
 
 /**
- * Make map of czech regions for pirati.cz/regiony
+ * Make map of czech regions for pirateparty.org.uk/branches
  * @param {collection} data
  * @param {string} url attribute to use as url
  **/

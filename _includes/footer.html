@@ -1,15 +1,15 @@
-<div class="text-right show-for-medium-up">
+<!--<div class="text-right show-for-medium-up">
       <a href="https://github.com/pirati-web/pirati.cz/edit/gh-pages/{{ page.path }}" class="label secondary" style="background-color:#bbb">
           <i class="fa fa-pencil"></i>
  Edit this page!</a>
-</div>
+</div>-->
 
 
 <footer class="o-section o-section--tiled o-section--bigger u-inverted u-cf">
   <div class="o-section-inner">
     <div class="row">
       <div class="medium-12 large-3 u-stacked-medium-down columns">
-        <a href="{{ '/portal' | relative_url }}">
+        <a href="{{ '/' | relative_url }}">
           <img src="{{ 'assets/img/brand/logo-white.png' | relative_url }}" style="width: 170px" alt="Pirate Party UK" class="u-center-medium-down u-10paddingTop">
         </a>
         <p class="u-0margin u-noWrap u-50paddingTop u-smaller-line-height show-for-large">
@@ -26,10 +26,10 @@
                   <a href="{{ 'people/' | relative_url }}">Our People</a>
                 </li>
                 <li class="c-vertical-navigation__item">
-                  <a href="{{ 'regiony/' | relative_url }}">Branches</a>
+                  <a href="{{ 'branches/' | relative_url }}">Branches</a>
                 </li>
                 <li class="c-vertical-navigation__item">
-                  <a href="{{ 'program/' | relative_url }}">What we Believe</a>
+                  <a href="{{ 'policy/' | relative_url }}">What we Believe</a>
                 </li>
               </ul>
             </nav>
@@ -39,7 +39,7 @@
               <h3 class="c-vertical-navigation__title">Get involved</h3>
               <ul class="c-vertical-navigation-items">
                 <li class="c-vertical-navigation__item">
-                  <a href="{{ 'pripoj-se/' | relative_url }}">Become a Pirate!</a>
+                  <a href="{{ 'join-us/' | relative_url }}">Become a Pirate!</a>
                 </li>
                 <li class="c-vertical-navigation__item">
                   <a href="{{ '/feed.xml' | absolute_url }}">RSS / Atom feed</a>
@@ -57,16 +57,16 @@
                 <li class="c-vertical-navigation__item">
                   <a href="{{ 'news/' | relative_url }}">News</a>
                 </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ 'pripoj-se/kalendar/' | relative_url }}">Calendar</a>
-                </li>
+                {% comment %} <li class="c-vertical-navigation__item">
+                  <a href="{{ 'join-us/kalendar/' | relative_url }}">Calendar</a>
+                </li> {% endcomment %}
               </ul>
             </nav>
           </div>
 {% comment %}
           <div class="small-6 medium-3 columns">
             <nav class="c-vertical-navigation u-center-medium-only">
-              <h3 class="c-vertical-navigation__title"><a href="{{ '/otevrenost/' | relative_url }}">Otevřenost</a></h3>
+              <h3 class="c-vertical-navigation__title"><a href="{{ '/otevrenost/' | relative_url }}">Transparency</a></h3>
               <ul class="c-vertical-navigation-items">
                 <li class="c-vertical-navigation__item">
                   <a href="https://ucet.pirati.cz">Transparentní účet</a>
@@ -124,7 +124,7 @@
     <div class="row">
       <div class="small-12 columns">
         <header class="c-contact-bar-header u-stacked-medium-down">
-          <h3 class="c-contact-bar__heading"> <a href="{{ '/kontakt/' | relative_url }}">Contact</a> </h3>
+          <h3 class="c-contact-bar__heading"> <a href="{{ '/contact/' | relative_url }}">Contact</a> </h3>
         </header>
         <ul class="c-contact-bar-items u-stacked-medium-down">
           <li class="c-contact-bar__item u-stacked-medium-down">

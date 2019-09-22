@@ -1,12 +1,15 @@
-# pirati.cz
+# pirateparty.org.uk
 
-[![Build Status](https://api.travis-ci.org/pirati-web/pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/pirati.cz)
 
-## Lokální spuštění
+<!-- [![Build Status](https://api.travis-ci.org/pirati-web/pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/pirati.cz) -->
 
-Instalacee na **Fedora 25+**: `dnf install cmake gcc npm ruby ruby-devel rubygem-jekyll rubygem-bundler rubygem-nokogiri libffi zlib`
+This project is copied from [pirati.cz](https://github.com/pirati-web/pirati.cz)
 
-Instalace **Ubuntu 16.04 LTS** (funguje též pro ubuntu podsystém ve **Windows 10**):
+## Build locally
+
+To install on **Fedora 25+**: `dnf install cmake gcc npm ruby ruby-devel rubygem-jekyll rubygem-bundler rubygem-nokogiri libffi zlib`
+
+To install on **Ubuntu 16.04 LTS** (including Ubuntu running on Windows Subsystem for Linux on **Windows 10**):
 
 ```
 sudo apt-get install ruby2.3-dev gcc make libghc-zlib-dev libffi-dev npm
@@ -16,51 +19,52 @@ sudo npm install -g bower
 sudo npm install --global gulp-cli
 ```
 
-**Společné**
+*(on all operating systems)*
 
-Přejděte do složky s vyklonovaným projektem:
+Next, go to the cloned project folder:
 
 ```
-npm install                             # Nainstaluje gulp apod
-bundle install                          # Nainstaluje lokálně potřebné gemy (např. jekyll, jekyll-paginate apod)
-./node_modules/bower/bin/bower install  # Nainstaluje front-endové knihovny (Foundation, Jquery, ...)
-./node_modules/gulp/bin/gulp.js         # Minifikuje JS 
+npm install                             # It installs gulp etc.
+bundle install                          # It installs locally needed gems (např. jekyll, jekyll-paginate etc.)
+./node_modules/bower/bin/bower install  # It installs front-end libraries (Foundation, Jquery, ...)
+./node_modules/gulp/bin/gulp.js         # Minifies JS 
 ```
 
-Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).
+The repository can be cloned into any folder (doesn't need to be in `/var/www/`).
 
-`bundle exec jekyll serve`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
+Run `bundle exec jekyll serve`, which compiles the page and runs the page. It'll be accessible on localhost: `http://127.0.0.1:4000`
 
-V případě puštění v kontejneru při selhání konverze scss zkontrolujte nastavení `locale`. Mělo by být nastaveno `utf-8`.
-Je-li `POSIX`, doinstalujte např. balíček:
+<!-- We probably won't have these kinds of localisations issues
+In case of dropping in the container when the scss conversion fails, check the settings `locale`. It should be set `utf-8`.
+If it is `POSIX`, install a package, for example:
 `sudo apt-get install locales`
 
-A potom `dpkg-reconfigure locales` - zde vyberte třeba `92. cs_CZ.UTF-8 UTF-8`  
-A vložte do ~/.bashrc
+And then `dpkg-reconfigure locales` - here you can choose `92. cs_CZ.UTF-8 UTF-8`  
+And paste into ~/.bashrc
 ```
 export LC_ALL=cs_CZ.UTF-8
 export LANG=cs_CZ.UTF-8
 export LANGUAGE=cs_CZ.UTF-8
-```
+``` -->
 
-Popřípadě můžeme spustit jen: `bundle exec jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).
+<!-- Eventually, we can run only: `bundle exec jekyll build`, to the folder `_site` prepare a complete web (we can open it from the browser using the keyboard shortcut `ctrl+o`). -->
 
 
-## Struktura
+## Structure
 
-Samotné stránky jsou v markdownu nebo v html (složitější struktura, např. vícesloupců apod)
+The pages themselves are in markdown or in html (more complex structure, eg multiple columns, etc.)
 
-Kolekce jsou markdown soubory s yaml hlavičkou v příslušné složce, na webu jsou použity 4:
+The collections are markdown files with the yaml header in the appropriate folder, 4:
 
-- posts (články), foto 1300x744
-- people (people), foto 165x220
+- posts (articles), photo 1300x744
+- people (people), photo 165x220
 - program
-- teams (týmy)
+- teams (teams)
 
-Některé údaje jsou uvedeny v složce `_data`. Jsou zde ve formátu yaml nebo json.
+Some data are listed in the folder `_data`. They are in yaml or json format.
 
-**CSS** je ve složce `_sass` a je automaticky kompilováno a minifikován do jednoho souboru `main.css`.
+**CSS** is in the folder `_sass` and is automatically compiled and minified into one file `main.css`.
 
-**JavaScript** je ve složce `_include/js`. Knihovny jsou definovány v `bower.json` a produkční soubor je tvořen gulpem.
+**JavaScript** is in the folder `_include/js`. Libraries are defined in `bower.json` and the production set is made up of a gulp.
 
-Jekyll má velmi podrobnou [dokumentaci](http://jekyllrb.com/docs/home/). A při vývoji též doporučuji [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)
+Jekyll has very detailed [documentation](http://jekyllrb.com/docs/home/). And we also recommend the development [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)

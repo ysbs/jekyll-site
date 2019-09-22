@@ -42,15 +42,12 @@ collections:
   people:
     output: true
     permalink: /people/:path/
-  program:
+  policy:
     output: true
-    permalink: /program/:path/
-  teams:
+    permalink: /policy/:path/
+  branches:
     output: true
-    permalink: /pripoj-se/:title/
-  elections:
-    output: true
-    permalink: /snemovna/:path/
+    permalink: /branches/:path/
 
 defaults:   # defaults values for collection scope
   -
@@ -61,7 +58,7 @@ defaults:   # defaults values for collection scope
       rbar: "people, foto"
   -
     scope:
-      path: "_program"
+      path: "_policy"
     values:
       layout: "page"
       rbar: "program"
@@ -79,6 +76,12 @@ defaults:   # defaults values for collection scope
       rbar: "team-summary, teams-toc"
   -
     scope:
+      path: "_branches"
+    values:
+      layout: "page"
+      rbar: "program"
+  -
+    scope:
       path: "_elections"
     values:
       layout: "kandidatka"
@@ -89,24 +92,24 @@ tw: piratepartyuk
 
 title-page:
   big:
-    foto: /assets/img/miscellaneous/featured-pulrok.gif
-    alt: snemovna
-    url: snemovna
+    foto: /assets/img/miscellaneous/you-can.png
+    alt: policy
+    url: policy
   left-top:
     text: Branches
-    url: regiony
+    url: branches
     icon: fa fa-map-signs
   right-top:
     text: Our People
     url: people
     icon: fa fa-users
   left-bottom:
-    text: Donate
-    url: https://dary.pirati.cz
+    text: Join
+    url: join-us
     icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
   right-bottom:
-    text: What we believe<br> - Our Policies
-    url: program
+    text: Our Beliefs
+    url: policy
     icon: fa fa-newspaper-o u-rotate-345
 
 emptyArray: []
