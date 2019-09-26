@@ -5,7 +5,7 @@ fullname: Harley Faggetter      # Full name including any titles
 category:               # Category: gov, nec, it, press
 - nec
 - it
-img: people/adam-zabransky.jpg   # 165 x 220
+img: people/no-pic.png   # 165 x 220
 description: Party Leader and Acting Nominations Officer.   # Short desc. Max 160 chars
 mail:
 - h.faggetter@pirateparty.org.uk

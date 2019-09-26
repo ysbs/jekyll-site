@@ -4,7 +4,7 @@ name:     Andy Robinson      # Short Name
 fullname: Andrew Robinson      # Full name including any titles
 category:               # Category: gov, nec, it, press
 - gov
-img: people/adam-zabransky.jpg   # 165 x 220
+img: people/no-pic.png   # 165 x 220
 description: Founder and governor # Short desc. Max 160 chars
 mail:
 - a.robinson@pirateparty.org.uk
