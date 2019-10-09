@@ -9,8 +9,6 @@ description: Founder and governor # Short desc. Max 160 chars
 mail:
 - a.robinson@pirateparty.org.uk
 profiles:
-  github:       https://github.com/?
-  gitlab:        https://gitlab.pirateparty.org.uk/?
   facebook:    https://www.facebook.com/user.name
   twitter:        https://twitter.com/AndyPPUK
 ordgov: 2 #ordgov and ordnec used to sort by importance
