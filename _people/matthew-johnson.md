@@ -9,7 +9,7 @@ img: people/no-pic.png   # 165 x 220
 description: Party Secretary  # Short desc. Max 160 chars
 mail:
 - m.johnson@pirateparty.org.uk
-ordgov: 2 #ordgov and ordnec used to sort by importance
+ordnec: 2 #ordgov and ordnec used to sort by importance
 ---
 
 Matthew Johnson joined the party several years ago and immediately got involved within the IT team,
