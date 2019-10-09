@@ -4,7 +4,7 @@ name:     Rebecca Sentance # Short Name
 fullname: Rebecca Sentance # Full name including any titles
 category:               # Category: gov, nec, it, press
 - press
-img: people/no-pic.png   # 165 x 220
+img: people/rebecca-sentance.png   # 165 x 220
 description: Press Team   # Short desc. Max 160 chars
 profiles:
   twitter: https://twitter.com/rainbowbex

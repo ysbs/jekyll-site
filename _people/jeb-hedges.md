@@ -9,7 +9,7 @@ description: Governor # Short desc. Max 160 chars
 mail:
 - j.hedges@pirateparty.org.uk
 profiles:
-  twitter:       https://twitter.com/PirateJeb
+  twitter: https://twitter.com/PirateJeb
 ordgov: 2 #ordgov and ordnec used to sort by importance
 ---
 
