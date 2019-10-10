@@ -8,11 +8,10 @@ category:               # Category: gov, nec, it, press
 img: people/noah-stride.png   # 165 x 220
 description: Governor and webmaster  # Short desc. Max 160 chars
 mail:
-- nstride@pirateparty.org.uk
+- n.stride@pirateparty.org.uk
 profiles:
   github:       https://github.com/strideynet
-  facebook: 	https://www.facebook.com/user.name
-  twitter: 		https://twitter.com/twitter.handle
+  twitter: 		https://twitter.com/stridenoah
 ordgov: 2 #ordgov and ordnec used to sort by importance
 ---
 

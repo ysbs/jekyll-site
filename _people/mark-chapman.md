@@ -10,9 +10,7 @@ description: Head Spokesperson   # Short desc. Max 160 chars
 mail:
 - m.chapman@pirateparty.org.uk
 profiles:
-  gitlab:        https://gitlab.pirateparty.org.uk/?
-  facebook:    https://www.facebook.com/user.name
-  twitter:        https://twitter.com/Pirate_Lennon
+  twitter: https://twitter.com/Pirate_Lennon
 ordnec: 2 #ordgov and ordnec used to sort by importance
 ---
 

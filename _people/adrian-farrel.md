@@ -8,10 +8,6 @@ img: people/no-pic.png   # 165 x 220
 description: Chair of the Board   # Short desc. Max 160 chars
 mail:
 - a.farrel@pirateparty.org.uk
-profiles:
-  github:       https://github.com/?
-  facebook:    https://www.facebook.com/?
-  twitter:        https://twitter.com/?
 ordgov: 1
 ---
 
