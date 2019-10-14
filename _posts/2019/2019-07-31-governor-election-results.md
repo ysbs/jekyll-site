@@ -22,4 +22,4 @@ Volunteering for the party doesn't have to be in an elected role, there are plen
 The Pirate Party in the UK is a fledgling political party. It has fielded a few candidates in European and National elections, but like most small parties it is significantly constrained by the UK electoral system. Despite this, the Pirate Party has started to poll alongside major parties and is looking to build support from the grassroots. The party stood 10 candidates in the June 2017 General Election and briefly held 2 community councillors.
 Find out more about the UK Pirate Party on our website or contact campaigns@pirateparty.org.uk
 
-[**Join us today!**](https://pirateparty.org.uk/volunteer )
+[**Join us today!**](https://www.pirateparty.org.uk/join-us)
