@@ -31,10 +31,10 @@ All five of these positions will be up for nomination and election. If you
 want to learn more about the commitment and the roles, please contact any of
 the current NEC or jump into the Discord #internal_elections channel.
 
-The provisional timetable is:
-Nominations open 18th November
-Nominations close 2nd December
-Election starts 9th December
+The provisional timetable is:  
+Nominations open 18th November  
+Nominations close 2nd December  
+Election starts 9th December  
 Election ends 23rd December
 
 Be the Pirate.
