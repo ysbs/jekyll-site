@@ -27,8 +27,8 @@ It is really important to note that a vote for keeping the Pirate Party open mus
 
 We look forward to hearing from you all.
 
-Best wishes,\
-Harley Faggetter – Leader\
+Best wishes,  
+Harley Faggetter – Leader  
 Adran Farrel – Chair of the Board of Governors
 
 ## About the Pirate Party ##
